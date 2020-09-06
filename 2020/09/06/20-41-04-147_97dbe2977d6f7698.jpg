@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Новости космоса, астрономии и космонавтики</title>
+<meta name="title" content="Новости космоса, астрономии и космонавтики" />
+<meta name="Description" content="Ежедневная подборка интересной и свежей информации из жизни космоса, астрономии и космонавтики со всего мира. Новые открытия, интересные публикации, старты ракет и новости из мира пилотируемых полетов.">
+<meta name="viewport" content="width=device-width">
+<meta name="copyright" content="AstroNews.ru" />
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<meta name="HandheldFriendly" content="True"/>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="/js/common.js"></script>
+<link href="/lightgallery/skins/default/style.css" type="text/css" media="screen" rel="stylesheet">
+<script src="/lightgallery/lightgallery.min.js" type="text/javascript"></script>
+<link rel="shortcut icon" type="image/x-icon" href="https://www.astronews.ru/favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="https://www.astronews.ru/astronews_touch.png">
+<script type="text/javascript">
+lightgallery.init();
+</script>
+</head>
+<body>
+	<div class="menubg"></div>
+	<nav class="mobile-menu">
+		<ul>			<li><a href="/cgi-bin/mng.cgi?page=go">Войти</a> <a href="/cgi-bin/mng.cgi?page=reg">Регистрация</a></li>			<li><a></a></li>
+			<li><a href="/">На главную</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=news">Последние новости</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=astrofoto">Фото</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=astrovideo">Видео</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=articles">Статьи</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=faq">Ответы о космосе</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=event">В этот день в космосе</a></li>
+			<li><a href="/cgi-bin/whatinspace.cgi">Что сейчас в космосе</a></li>
+			<li><a href="/cgi-bin/whoinspace.cgi">Кто сейчас в космосе</a></li>
+			<li><a href="/cgi-bin/spaceman.cgi">Космонавты</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=eventmonth">Астрономический календарь</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=question">Общение</a></li>
+			<li><a href="https://www.astrozona.ru" target="_blank">Магазин</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=glossary">Словарь терминов</a></li>
+			<li><a href="/cgi-bin/moononline.cgi">Луна онлайн</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=find">Поиск</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=donate">Поддержка проекта</a></li>
+			<li><a href="/cgi-bin/mng.cgi?page=contact">Контакты</a></li>
+		</ul>
+	</nav>
+	<nav class="top-menu">
+		<div class="wrap">
+			<ul>
+				<li><a href="/cgi-bin/mng.cgi?page=news">Новости</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=event">В этот день…</a></li>
+				<li><a href="https://www.astrozona.ru" target="_blank"><font color="red">Магазин</font></a></li>
+				<li><a href="/cgi-bin/moononline.cgi" class="active">Луна онлайн</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=question">Общение</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=eventmonth">Календарь</a></li>
+				<li><a href="/cgi-bin/whoinspace.cgi">Кто сейчас в космосе</a></li>
+				<li><a href="/cgi-bin/spaceman.cgi">Космонавты</a></li>
+			</ul><div class="links"><img src="/img/user.png"> <a href="/cgi-bin/mng.cgi?page=go">Войти</a> или <a href="/cgi-bin/mng.cgi?page=reg">Зарегистрироваться</a></div><div class="clear"></div>
+		</div>
+	</nav>
+	<header class="header">
+		<div class="wrap">
+			<div class="logo">
+				<a href="/"><img src="/img/logo.png"></a>
+			</div>
+			<div class="menu-button">
+				<i class="fa fa-bars"></i>
+			</div>
+			<ul>
+				<li><a href="/cgi-bin/mng.cgi?page=astrofoto" class="active">Фото</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=astrovideo" class="active">Видео</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=faq" class="active">Ответы</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=articles" class="active">Статьи</a></li>
+				<li><a href="/cgi-bin/mng.cgi?page=glossary" class="active">Словарь</a></li><li><div class="block_header_poisk"><div class="ya-site-form ya-site-form_inited_no" data-bem="{&quot;action&quot;:&quot;https://astronews.ru/cgi-bin/mng.cgi?page=find&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;????? ?? AstroNews.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:false,&quot;searchid&quot;:2367504,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#7f9db9&quot;}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2367504"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="?????"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script></div></li>			</ul>
+			<div class="clear"></div>
+		</div>
+	</header>
+	<div class="wrap">
+		<div class="banner-place"><div id="yandex_rtb_R-A-140935-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-140935-3",
+                renderTo: "yandex_rtb_R-A-140935-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+	</div><div class="block-name small">
+		<div class="wrap">
+			<a href="/" class="name">новости космоса</a> &nbsp; &nbsp; 
+					<a href="https://vk.com/astronews" target="_blank"><img src="/img/social2.png"></a>
+					<a href="https://www.facebook.com/www.astronews.ru" target="_blank"><img src="/img/social1.png"></a>
+					<a href="https://ok.ru/astronews" target="_blank"><img src="/img/social3.png"></a>
+					<a href="https://t.me/s/astronewsru" target="_blank"><img src="/img/social7.png"></a>
+					<a href="https://www.youtube.com/channel/UC64VSeb7XznsEdhfD7sWVMQ" target="_blank"><img src="/img/social8.png"></a>
+			<a href="/cgi-bin/mng.cgi?page=news&n=arh" class="right-link">Все новости</a>
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="index-news flex"><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200906125411" class="name"><img src="/news/2020/20200906125411.jpg" border=0 width=250 height=188 title="Солнечные затмения на Марсе приводят к деформации его поверхности"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 06 сентября 2020 19:17</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200906125411" class="name">Солнечные затмения на Марсе приводят к деформации его поверхности</a>
+					<p>Миссия НАСА InSight собирает данные о поверхности и недрах Марса. Сейсмометр этого стационарного спускаемого аппарата способен регистрировать не только «марсотрясения», но, как выяснилось, также измен... <a href="/cgi-bin/mng.cgi?page=news&news=20200906125411">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id="><b></a><sup></sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 334
+						<img src="/img/count2.png"> 0
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200906113955" class="name"><img src="/news/2020/20200906113955.jpg" border=0 width=250 height=188 title="Геологический возраст лунного кратера Финсен составил 3,5 миллиарда лет"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 06 сентября 2020 12:23</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200906113955" class="name">Геологический возраст лунного кратера Финсен составил 3,5 миллиарда лет</a>
+					<p>Абсолютный модельный возраст (absolute model age, AMA), или геологический возраст, кратера Финсен, расположенного на обратной стороне Луны, оказался равным примерно 3,5 миллиарда лет, если исходить из... <a href="/cgi-bin/mng.cgi?page=news&news=20200906113955">подробнее »</a></p>
+					<div class="author"><img src="/user/2554.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=2554"><b>nazar2</a><sup>3</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 516
+						<img src="/img/count2.png"> 4
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200905164142" class="name"><img src="/news/2020/20200905164142.jpg" border=0 width=250 height=188 title="Столкновения с метеоритами могли способствовать зарождению жизни на планетах"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 05 сентября 2020 16:42</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200905164142" class="name">Столкновения с метеоритами могли способствовать зарождению жизни на планетах</a>
+					<p>Что если ударные кратеры, долгое время считавшиеся предвестниками гибели живых организмов, на самом деле являются «колыбелью жизни»? Для планетолога Гордона Осински (Gordon Osinski) из Западного униве... <a href="/cgi-bin/mng.cgi?page=news&news=20200905164142">подробнее »</a></p>
+					<div class="author"><img src="/user/3299.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=3299"><b>Bong</a><sup>49</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 999
+						<img src="/img/count2.png"> 10
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200905152341" class="name"><img src="/news/2020/20200905152341.jpg" border=0 width=250 height=188 title="Газовый диск объясняет таинственные изменения яркости в созвездии Стрелец"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 05 сентября 2020 15:46</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200905152341" class="name">Газовый диск объясняет таинственные изменения яркости в созвездии Стрелец</a>
+					<p>Загадочные изменения яркости света в двойной звездной системе, расположенной в направлении созвездия Стрелец, могут быть объяснены присутствием газового диска вокруг горячей звезды, которая обращается... <a href="/cgi-bin/mng.cgi?page=news&news=20200905152341">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id="><b></a><sup></sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 569
+						<img src="/img/count2.png"> 0
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200904122600" class="name"><img src="/news/2020/20200904122600.jpg" border=0 width=250 height=188 title="«Неравное» слияние двух черных дыр получает необычное объяснение"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 04 сентября 2020 12:26</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200904122600" class="name">«Неравное» слияние двух черных дыр получает необычное объяснение</a>
+					<p>«Неравное» слияние между двумя черными дырами может иметь необычное происхождение, согласно новому исследованию. Это столкновение было впервые зарегистрировано 12 апреля 2019 г., когда гравитационная ... <a href="/cgi-bin/mng.cgi?page=news&news=20200904122600">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=3794"><b>graviton</a><sup>23</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1281
+						<img src="/img/count2.png"> 3
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200904100808" class="name"><img src="/news/2020/20200904100808.jpg" border=0 width=250 height=188 title="Протопланетный диск разорван на части тремя родительскими звездами"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 04 сентября 2020 11:06</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200904100808" class="name">Протопланетный диск разорван на части тремя родительскими звездами</a>
+					<p>Команда астрономов впервые обнаружила прямое доказательство того, что группы звезд могут разрывать на части свои протопланетные диски, оставляя их деформированными и расщепленными на несколько отдельн... <a href="/cgi-bin/mng.cgi?page=news&news=20200904100808">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=3566"><b>37</a><sup>11</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 949
+						<img src="/img/count2.png"> 9
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200903190707" class="name"><img src="/news/2020/20200903190707.jpg" border=0 width=250 height=188 title="Потрясающие новые изображения солнца показывают структуру магнитного поля"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 03 сентября 2020 22:13</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200903190707" class="name">Потрясающие новые изображения солнца показывают структуру магнитного поля</a>
+					<p>Немецкие ученые только что закончили модернизацию солнечного телескопа под названием GREGOR в обсерватории Тейде на Канарских островах, и в результате получился впечатляющий новый набор изображений на... <a href="/cgi-bin/mng.cgi?page=news&news=20200903190707">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4091"><b>JamesWebb</a><sup>41</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1651
+						<img src="/img/count2.png"> 3
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200903135951" class="name"><img src="/news/2020/20200903135951.jpg" border=0 width=250 height=188 title="Половина атомов нашей планеты может превратиться в цифровые данные к 2245 г."></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 03 сентября 2020 16:53</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200903135951" class="name">Половина атомов нашей планеты может превратиться в цифровые данные к 2245 г.</a>
+					<p>Информация на первый взгляд может показаться нематериальной. Однако в течение всего лишь нескольких коротких столетий общее количество цифровых битов, производимых ежегодно человечеством, может превзо... <a href="/cgi-bin/mng.cgi?page=news&news=20200903135951">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4661"><b>postoronnim_</a><sup>4</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1330
+						<img src="/img/count2.png"> 12
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200903124022" class="name"><img src="/news/2020/20200903124022.jpg" border=0 width=250 height=188 title="Научный прорыв в поисках внеземного разума в границах Млечного пути"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 03 сентября 2020 12:41</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200903124022" class="name">Научный прорыв в поисках внеземного разума в границах Млечного пути</a>
+					<p>Прорыв в развитии аналитических методов может значительно увеличить наши шансы обнаружить внеземную жизнь в границах нашей Галактики, согласно команде из Манчестерского университета, Соединенное Корол... <a href="/cgi-bin/mng.cgi?page=news&news=20200903124022">подробнее »</a></p>
+					<div class="author"><img src="/user/1925.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=1925"><b>koftochka</a><sup>92</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 3158
+						<img src="/img/count2.png"> 27
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200903112851" class="name"><img src="/news/2020/20200903112851.jpg" border=0 width=250 height=188 title="Сдуваемый с Земли на протяжении миллиардов лет кислород вызвал «ржавление» Луны"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 03 сентября 2020 12:06</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200903112851" class="name">Сдуваемый с Земли на протяжении миллиардов лет кислород вызвал «ржавление» Луны</a>
+					<p>К удивлению многих планетологов, окисленный минерал гематит был обнаружен на поверхности Луны в области высоких широт, согласно новому исследованию, проведенному группой под руководством Шуая Ли (Shua... <a href="/cgi-bin/mng.cgi?page=news&news=20200903112851">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=3566"><b>37</a><sup>11</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1150
+						<img src="/img/count2.png"> 3
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200902193114" class="name"><img src="/news/2020/20200902193114.jpg" border=0 width=250 height=188 title="НАСА будет искать предложения по лунной ядерной энергетической системе"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 23:34</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200902193114" class="name">НАСА будет искать предложения по лунной ядерной энергетической системе</a>
+					<p>В этом году НАСА и министерство энергетики будут искать предложения для разработки компактной ядерной энергетической системы, которая может поддержать долгосрочные планы агентства по исследованию Луны... <a href="/cgi-bin/mng.cgi?page=news&news=20200902193114">подробнее »</a></p>
+					<div class="author"><img src="/user/974.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=974"><b>Leonid3</a><sup>137</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1374
+						<img src="/img/count2.png"> 45
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200902200704" class="name"><img src="/news/2020/20200902200704.jpg" border=0 width=250 height=188 title="Предложен универсальный механизм извержения материи со стороны черных дыр"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 20:41</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200902200704" class="name">Предложен универсальный механизм извержения материи со стороны черных дыр</a>
+					<p>Черные дыры могут отталкивать от себя в тысячу раз больше материи, чем они поглощают. Механизм, который отвечает как за выбросы, так и за захват материи, связан с аккреционным диском – огромным облако... <a href="/cgi-bin/mng.cgi?page=news&news=20200902200704">подробнее »</a></p>
+					<div class="author"><img src="/user/3876.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=3876"><b>viktorchibis</a><sup>34</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1785
+						<img src="/img/count2.png"> 10
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200902181157" class="name"><img src="/news/2020/20200902181157.jpg" border=0 width=250 height=188 title="Ученые «голосуют» за нового кандидата на роль источника темной энергии"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 18:17</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200902181157" class="name">Ученые «голосуют» за нового кандидата на роль источника темной энергии</a>
+					<p>Астрономам на протяжении двух десятилетий было известно, что Вселенная расширяется с ускорением, однако физические механизмы этого расширения продолжали оставаться загадкой. Теперь команда исследовате... <a href="/cgi-bin/mng.cgi?page=news&news=20200902181157">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4661"><b>postoronnim_</a><sup>4</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 2704
+						<img src="/img/count2.png"> 20
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200902162432" class="name"><img src="/news/2020/20200902162432.jpg" border=0 width=250 height=188 title="Обнаружено необычное столкновение между двумя черными дырами"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 17:05</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200902162432" class="name">Обнаружено необычное столкновение между двумя черными дырами</a>
+					<p>Ученые наблюдали то, что может оказаться столкновением между очень массивной черной дырой и другой черной дырой, имеющей обычную массу. Команда открыла столкновение между двумя черными дырами, однако ... <a href="/cgi-bin/mng.cgi?page=news&news=20200902162432">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=75"><b>Гришин_С_Г</a><sup>104</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1316
+						<img src="/img/count2.png"> 1
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200830225855" class="name"><img src="/news/2020/20200830225855.jpg" border=0 width=250 height=188 title="Марс, Curiosity, 2860-2863: Последние дни лета"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 12:57</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200830225855" class="name">Марс, Curiosity, 2860-2863: Последние дни лета</a>
+					<p>Curiosity все еще находится на месте бурения «Мэри Эннинг», исследуя химический состав и осадочные структуры в этой местности. По мере того, как мы продолжаем делать научные исследования в этом месте,... <a href="/cgi-bin/mng.cgi?page=news&news=20200830225855">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id="><b></a><sup></sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 830
+						<img src="/img/count2.png"> 0
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200902125234" class="name"><img src="/news/2020/20200902125234.jpg" border=0 width=250 height=188 title="Orion завершил ключевой обзор миссии Artemis I"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 02 сентября 2020 12:55</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200902125234" class="name">Orion завершил ключевой обзор миссии Artemis I</a>
+					<p>Программа НАСА Orion завершила проверку по приемке системы и сертификации конструкции, чтобы подтвердить, что космический корабль Artemis I готов отправиться с Земли в окрестности Луны, а затем вернут... <a href="/cgi-bin/mng.cgi?page=news&news=20200902125234">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4661"><b>postoronnim_</a><sup>4</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1222
+						<img src="/img/count2.png"> 3
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200901194737" class="name"><img src="/news/2020/20200901194737.jpg" border=0 width=250 height=188 title="Волшебная «вуаль» на снимке «Хаббла» представляет собой край ударной волны сверхновой"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 01 сентября 2020 19:48</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200901194737" class="name">Волшебная «вуаль» на снимке «Хаббла» представляет собой край ударной волны сверхновой</a>
+					<p>То, что выглядит на этом снимке, сделанном при помощи космического телескопа Hubble («Хаббл») НАСА/ЕКА как нежная полупрозрачная вуаль, раскинутая по небу, на самом деле представляет собой небольшую ч... <a href="/cgi-bin/mng.cgi?page=news&news=20200901194737">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4091"><b>JamesWebb</a><sup>41</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1761
+						<img src="/img/count2.png"> 27
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200901191456" class="name"><img src="/news/2020/20200901191456.jpg" border=0 width=250 height=188 title="Газ падает на молодые звезды вдоль магнитных линий"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 01 сентября 2020 19:17</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200901191456" class="name">Газ падает на молодые звезды вдоль магнитных линий</a>
+					<p>Астрономы использовали инструмент под названием GRAVITY для изучения непосредственных окрестностей молодой звезды с более высоким уровнем подробностей, чем когда-либо прежде. Проведенные наблюдения по... <a href="/cgi-bin/mng.cgi?page=news&news=20200901191456">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4091"><b>JamesWebb</a><sup>41</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 986
+						<img src="/img/count2.png"> 7
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200901183501" class="name"><img src="/news/2020/20200901183501.jpg" border=0 width=250 height=188 title="Идентифицировано 18 бедных металлами звезд в карликовой галактике Стрелец"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 01 сентября 2020 18:35</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200901183501" class="name">Идентифицировано 18 бедных металлами звезд в карликовой галактике Стрелец</a>
+					<p>Астрономы из Массачусетского технологического института, США, идентифицировали 18 очень бедных металлами звезд в карликовой галактике Стрелец. Они нашли, что одна из звезд, относящихся к этому набору,... <a href="/cgi-bin/mng.cgi?page=news&news=20200901183501">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id="><b></a><sup></sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 796
+						<img src="/img/count2.png"> 0
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200831233537" class="name"><img src="/news/2020/20200831233537.jpg" border=0 width=250 height=188 title="Канадский институт призывает ООН к соглашению об использовании космических ресурсов"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 31 августа 2020 23:43</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200831233537" class="name">Канадский институт призывает ООН к соглашению об использовании космических ресурсов</a>
+					<p>В вызове к позиции Соединенных Штатов, что внеземные ресурсы могут быть законно добыты и использованы в соответствии с действующим законодательством, Институт Космического Пространства (The Outer Spac... <a href="/cgi-bin/mng.cgi?page=news&news=20200831233537">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4646"><b>Pupkin</a><sup>4</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 1160
+						<img src="/img/count2.png"> 4
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=news&news=20200831202001" class="name"><img src="/news/2020/20200831202001.jpg" border=0 width=250 height=188 title="Исследователи разрабатывают пылесборник для Луны"></a></div>
+					<div class="date"><i class="fa fa-clock-o"></i> 31 августа 2020 21:46</div>
+					<a href="/cgi-bin/mng.cgi?page=news&news=20200831202001" class="name">Исследователи разрабатывают пылесборник для Луны</a>
+					<p>Исследование, опубликованное недавно в журнале Acta Astronautica, знаменует собой последнее исследование проблемы в колонизации Луны: пыль. Астронавты, идущие или проезжающие по лунной поверхности, вы... <a href="/cgi-bin/mng.cgi?page=news&news=20200831202001">подробнее »</a></p>
+					<div class="author"><img src="/img/nofoto.jpg" width="30" height="30"> <a href="/cgi-bin/mng.cgi?page=user&id=4661"><b>postoronnim_</a><sup>4</sup></b></div>
+					<div class="counts">
+						<img src="/img/count1.png"> 990
+						<img src="/img/count2.png"> 3
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div></div>
+		<div class="button" align="center"><h2><a href="/cgi-bin/mng.cgi?page=news">Посмотреть все новости</a></h2><br><br></div>
+
+		<div class="banner-place"><div id="yandex_rtb_R-A-140935-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-140935-2",
+                renderTo: "yandex_rtb_R-A-140935-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+
+			</div>
+
+
+<!-- СТАТЬИ НАЧАЛО -->
+
+	<div class="block-name">
+		<div class="wrap">
+			<a href="/cgi-bin/mng.cgi?page=articles" class="name">статьи</a>
+			<a href="/cgi-bin/mng.cgi?page=articles" class="right-link">Все статьи</a>
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="index-news flex"><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=articles&id=20200419004552" class="name"><img src="/articles/20200419004552.jpg"></a></div>
+					<a href="/cgi-bin/mng.cgi?page=articles&id=20200419004552" class="name">Сколько звезд в нашей галактике?</a>
+					<p>Млечный Путь - это галактика, в которой находится Земля. Часть его видна в ясную ночь с Земли, как т... <a href="/cgi-bin/mng.cgi?page=articles&id=20200419004552">подробнее »</a></p>
+					<div class="author">17 мая 2020</div>
+					<div class="counts">
+						<img src="/img/count1.png"> 7184
+						<img src="/img/count2.png"> 1
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=articles&id=20200419004420" class="name"><img src="/articles/20200419004420.jpg"></a></div>
+					<a href="/cgi-bin/mng.cgi?page=articles&id=20200419004420" class="name">Что такое гравитация?</a>
+					<p>Из фундаментальных сил Вселенной только одна доминирует в каждый момент нашего сознательного опыта: ... <a href="/cgi-bin/mng.cgi?page=articles&id=20200419004420">подробнее »</a></p>
+					<div class="author">16 мая 2020</div>
+					<div class="counts">
+						<img src="/img/count1.png"> 6146
+						<img src="/img/count2.png"> 8
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="col">
+				<div class="item">
+					<div class="image"><a href="/cgi-bin/mng.cgi?page=articles&id=20200415134959" class="name"><img src="/articles/20200415134959.jpg"></a></div>
+					<a href="/cgi-bin/mng.cgi?page=articles&id=20200415134959" class="name">Почему ученые изучают сверхновые звезды?</a>
+					<p>Сверхновая горит лишь в течение короткого промежутка времени, но она может многое рассказать ученым ... <a href="/cgi-bin/mng.cgi?page=articles&id=20200415134959">подробнее »</a></p>
+					<div class="author">09 мая 2020</div>
+					<div class="counts">
+						<img src="/img/count1.png"> 4910
+						<img src="/img/count2.png"> 0
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div></div>
+	</div>
+
+
+<!-- ВИДЕО КОСМОСА НАЧАЛО -->
+	<div class="block-name other">
+		<div class="wrap">
+			<a href="/cgi-bin/mng.cgi?page=astrovideo" class="name">видео космоса</a>
+			<a href="/cgi-bin/mng.cgi?page=astrovideo" class="right-link">Все видео космоса</a>
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="day-events"><div class="item"><div class="content">
+					<div class="date"><i class="fa fa-clock-o"></i> 28 мая 2020</div>
+					<div class="right-content">
+						<div class="counts">
+							<img src="/img/count3.png"> 5901
+							<img src="/img/count4.png"> 0
+						</div>
+						<div class="name"><a href="/cgi-bin/mng.cgi?page=astrovideo&id=20200528190116">Прямая трансляция запуска Falcon 9 на русском (30 мая 2020)</a></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="item"><div class="content">
+					<div class="date"><i class="fa fa-clock-o"></i> 27 мая 2020</div>
+					<div class="right-content">
+						<div class="counts">
+							<img src="/img/count3.png"> 5654
+							<img src="/img/count4.png"> 0
+						</div>
+						<div class="name"><a href="/cgi-bin/mng.cgi?page=astrovideo&id=20200525011125">История марсохода Opportunity (2004-2019)</a></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="item"><div class="content">
+					<div class="date"><i class="fa fa-clock-o"></i> 27 мая 2020</div>
+					<div class="right-content">
+						<div class="counts">
+							<img src="/img/count3.png"> 5578
+							<img src="/img/count4.png"> 0
+						</div>
+						<div class="name"><a href="/cgi-bin/mng.cgi?page=astrovideo&id=20200520170811">Охота за околосолнечными кометами</a></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="item"><div class="content">
+					<div class="date"><i class="fa fa-clock-o"></i> 27 мая 2020</div>
+					<div class="right-content">
+						<div class="counts">
+							<img src="/img/count3.png"> 5686
+							<img src="/img/count4.png"> 0
+						</div>
+						<div class="name"><a href="/cgi-bin/mng.cgi?page=astrovideo&id=20200518233819">Нейтронные звезды создают черную дыру</a></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="item"><div class="content">
+					<div class="date"><i class="fa fa-clock-o"></i> 18 мая 2020</div>
+					<div class="right-content">
+						<div class="counts">
+							<img src="/img/count3.png"> 6602
+							<img src="/img/count4.png"> 0
+						</div>
+						<div class="name"><a href="/cgi-bin/mng.cgi?page=astrovideo&id=20200518010909">Путешествие по Вселенной #01</a></div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div><div class="button">
+				<button><a href="/cgi-bin/mng.cgi?page=astrovideo">Все видео космоса</a></button>
+			</div>
+		</div>
+	</div>
+<!-- ГОЛОСОВАНИЕ НАЧАЛО -->
+
+	<div class="block-name">
+		<div class="wrap">
+			<a href="/cgi-bin/mng.cgi?page=vote" class="name">голосование</a>
+			<a href="/cgi-bin/mng.cgi?page=vote" class="right-link">Все голосования</a>
+		</div>
+	</div>
+
+	<form action="/cgi-bin/mng.cgi" method="post">
+	<input type="hidden" name="page" value="vote">
+	<input type="hidden" name="id" value="10">
+	<input type="hidden" name="run" value="2">
+	<div class="wrap">
+		<div class="vote-block">
+			<div class="about-vote">Где по вашему мнению вероятнее всего есть жизнь?</div>
+			<div class="list">
+				<input type="radio" class="radio" id="r1" name="vote" value="1" checked> <label for="r1">На Марсе</label>
+				<input type="radio" class="radio" id="r2" name="vote" value="2"> <label for="r2">Где-то в Системе Сатурна.</label>
+				<input type="radio" class="radio" id="r3" name="vote" value="3"> <label for="r3">Где-то в Системе Юпитера</label>
+				<input type="radio" class="radio" id="r4" name="vote" value="4"> <label for="r4">Нигде</label>
+				<a href='/cgi-bin/mng.cgi?page=vote&id=10&str=1'>Посмотреть результаты</a>
+				<div class="button"><br><a href="/cgi-bin/mng.cgi?page=vote&id=10&str=1">Посмотреть результаты</a> </div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	</form>
+
+
+
+
+
+
+
+
+
+
+<!-- АСТРОФОТО НАЧАЛО -->
+
+	<div class="block-name">
+		<div class="wrap">
+			<a href="/cgi-bin/mng.cgi?page=astrofoto" class="name">астрофото</a>
+			<a href="/cgi-bin/mng.cgi?page=astrofoto" class="right-link">Все фото</a>
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="photos-list flex"><div class="item">
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200422002318" class="name">Прогресс отчаливает от МКС</a>
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200422002318"><img src="/foto/s/20200422002318.jpg" width=290 height=190 title="Прогресс отчаливает от МКС" class="image"></a>
+				<div class="author">22 апреля 2020</div>
+				<div class="counts">
+					<img src="/img/count1.png"> 3172
+ 					<img src="/img/count2.png"> 0
+				</div>
+				<div class="clear"></div>
+			</div><div class="item">
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200417235656" class="name">Марс, Curiosity, 2734 день: левая навигационная камера</a>
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200417235656"><img src="/foto/s/20200417235656.jpg" width=290 height=190 title="Марс, Curiosity, 2734 день: левая навигационная камера" class="image"></a>
+				<div class="author">18 апреля 2020</div>
+				<div class="counts">
+					<img src="/img/count1.png"> 3326
+ 					<img src="/img/count2.png"> 0
+				</div>
+				<div class="clear"></div>
+			</div><div class="item">
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200412231857" class="name">Семьянин Гагарин</a>
+				<a href="/cgi-bin/mng.cgi?page=astrofoto&id=20200412231857"><img src="/foto/s/20200412231857.jpg" width=290 height=190 title="Семьянин Гагарин" class="image"></a>
+				<div class="author">15 апреля 2020</div>
+				<div class="counts">
+					<img src="/img/count1.png"> 3141
+ 					<img src="/img/count2.png"> 0
+				</div>
+				<div class="clear"></div>
+			</div>
+
+</div>
+	</div>
+
+	<div class="wrap"><div class="banner-place"><div id="yandex_rtb_R-A-140935-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-140935-4",
+                renderTo: "yandex_rtb_R-A-140935-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+		<footer class="footer">
+			<div class="logo">
+				<a href="/"><img src="/img/flogo.png"></a>
+				<div class="social">
+					<a href="https://www.facebook.com/www.astronews.ru" target="_blank"><img src="/img/social1.png"></a>
+					<a href="https://vk.com/astronews" target="_blank"><img src="/img/social2.png"></a>
+					<a href="https://ok.ru/astronews" target="_blank"><img src="/img/social3.png"></a>
+					<a href="https://astronewsru.livejournal.com/" target="_blank"><img src="/img/social4.png"></a>
+					<a href="https://www.instagram.com/astronews.ru/" target="_blank"><img src="/img/social5.png"></a>
+					<a href="https://twitter.com/AstronewsRu" target="_blank"><img src="/img/social6.png"></a>
+					<a href="https://t.me/s/astronewsru" target="_blank"><img src="/img/social7.png"></a>
+					<a href="https://www.youtube.com/channel/UC64VSeb7XznsEdhfD7sWVMQ" target="_blank"><img src="/img/social8.png"></a>
+				</div>
+			</div>
+			<nav>
+				<ul class="first">
+					<li><a href="/" class="active">Новости космоса</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=astrofoto" class="active">Фото</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=astrovideo" class="active">Видео</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=articles" class="active">Статьи</a></li>
+					<li><a href="/cgi-bin/moononline.cgi" class="active">Луна онлайн</a></li>
+					<li><a href="/cgi-bin/moonphases.cgi" class="active">Фазы Луны</a></li>
+				</ul>
+				<ul class="second">
+					<li><a href="/cgi-bin/mng.cgi?page=faq">Ответы о космосе</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=news&n=arh">Архив новостей</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=top">ТОП новостей</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=donate">Поддержка проекта</a></li>
+					<li><a href="/cgi-bin/whatinspace.cgi">Что сейчас в космосе</a></li>
+					<li><a href="/cgi-bin/whoinspace.cgi">Кто сейчас в космосе</a></li>
+				</ul>
+				<ul class="second">
+					<li><a href="https://www.astrozona.ru" target="_blank">Интернет-магазин</a></li>
+					<li><a href="/cgi-bin/spaceman.cgi">Список космонавтов</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=event">В этот день в космосе</a></li>
+					<li><a href="/cgi-bin/jupitersatellites.cgi">Положение спутников Юпитера</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=eventmonth">Астрономический календарь</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=glossary">Словарь терминов</a></li>
+				</ul>
+				<ul class="second">
+					<li><a href="/cgi-bin/mng.cgi?page=rules">Правила</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=question">Общение</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=vote">Голосование</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=partner">Партнеры</a></li>
+					<li><a href="/cgi-bin/mng.cgi?page=contact">Контакты</a></li>
+				</ul>
+			</nav>
+			<div class="counters">
+			<a href="https://metrika.yandex.ru/stat/?id=11328580&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/11328580/3_0_4A86A6FF_2A6686FF_1_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="11328580" data-lang="ru" /></a><script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter11328580 = new Ya.Metrika({ id:11328580, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/11328580" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+			</div>
+			<div class="clear"></div>
+		</footer>
+		<div class="copy">© 2002-2020. Все права защищены. AstroNews.ru | Перепечатка любых материалов сайта без разрешения редакции запрещена!
+		</div>
+	</div>
+</body>
+</html>
