@@ -1,0 +1,2805 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk">
+<title>课件资源 - 资源共享区 -  小木虫论坛-学术科研互动平台</title>
+<meta name="keywords" content="资源共享区,课件资源, 小木虫 论坛">
+<meta name="description" content="小木虫论坛-课件资源专栏：拥有来自国内各大院校、科研院所的博硕士研究生，企业研发人员，旺盛的人气、良好的交流氛围及广阔的交流空间，聚集了众多科研工作者的课件资源学术资源、课件资源经验交流信息，是国内最有人气的课件资源学术科研平台。">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="shortcut icon" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/favicon.ico" type="image/x-icon" />
+<link rel="dns-prefetch" href="i.muchong.com"/>
+<link rel="dns-prefetch" href="muchongavatar.xmcimg.com"/>
+<link rel="dns-prefetch" href="muchongimg.xmcimg.com"/>
+<link rel="dns-prefetch" href="image-ali.keyan.cc"/>
+<link rel="dns-prefetch" href="yuyin.xmcimg.com"/>
+<link rel="dns-prefetch" href="yuyincdn.xmcimg.com"/>
+
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.js"></script>
+<script type="text/javascript">jQuery.noConflict();  var XMC_GKEY="/小木虫/[大区]资源共享区/[板块]课件资源"; var clickok_hash='96afbe089c5050b613f43f0db2378473', cookiepre='', cookiedomain='.muchong.com', cookiepath='/',site_url="http://muchong.com/bbs/";</script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.select.js?15373250"></script>
+<link type="text/css" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/css/qing/css/global.css?1537325052" rel="stylesheet">
+<!--[if IE]>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/html5shiv.min.js?15373250"></script>
+<![endif]-->
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/script_ajax.js?15373250"></script>
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/common.js?153732503"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/qing.js?15373250"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/global.js?15373250"></script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/layer/layer.js?15373250"></script>
+<base href="http://muchong.com/bbs/"/>
+</head>
+<body>
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+<div id="show_forum_f" style="display:none;"></div>
+<div class="bg">
+<div class="top_Nav_Box solid">
+    <div class="wrapper_head solid">
+        <div class="xmc_fl">
+            <ul >
+            <div class="xmc_fl">
+         <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/portal/image/portal/logo.png?20163" style="display: none;">
+                <li class="index" style="cursor: pointer"><a href="/bbs/" class="logo" style="background: transparent;"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/logo_new.png"></a></li>
+                <li class="tar_Down_Nav top_Down_Nav" style="margin-left: 10px;">
+                    <dl class="" id="default_bg">
+                        <dt class="xmc_nav">版块导航<em></em></dt>
+                        <dd id="loadingnav" >
+                            <p class="xmc_lm20">正在加载中...</p>
+                        </dd>
+                    </dl>
+                </li>
+
+                                <li><a href="http://m.muchong.com/?f=bbs&w=nav" target="_blank">客户端APP下载</a></li>
+            <li><a href="http://hao.muchong.com/?f=muchong" style="" target="_blank">木虫导航</a> </li>
+                
+
+            </ul>
+        </div>
+
+        <div class="xmc_fr top_Login" >
+    <a href="/bbs/logging.php?action=login&t=1599430244">登录</a>
+    <a href="register.php" >注册</a>
+    </div>
+    
+    <div class="xmc_fr xmc_Search2">
+    <form class="xmc_fl" action="http://muchong.com/bbs/qing_search.php" >
+    <div class="xmc_fl">
+    <input name="search_type" type="hidden" value="thread" id="inputselect"/>
+    <input class="xmc_Search_Txt xmc_c9" type="text"  name="wd" value="" placeholder="请输入用户名/关键字">
+    </div>
+    <div class="xmc_fl">
+    <div id="divselect" class="divselect">
+    <cite>帖子</cite>
+    <ul class="select_x solid">
+    <li ><a href="javascript:;" selectid="thread">帖子</a></li>
+    <li ><a href="javascript:;" selectid="user">用户</a></li>
+        <li ><a href="javascript:;" selectid="112">本版</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="xmc_fl">
+    <input class="xmc_Search_Btn" type="submit" value="搜索">
+    </div>
+
+    </form>
+    </div>
+
+    </div>
+</div>
+
+
+<div style="height: 50px;"></div>
+
+
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+<style>
+.dropdown h4{height:23px; font:12px/23px Arial, Helvetica, sans-serif;border:solid 1px #AAA;background:url(js/qing/js/droparrow.gif) no-repeat right center;}
+</style>
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="left" border="0" >
+<tr>
+<td align="right"><a href="http://muchong.com/bbs/a1751.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/data/bcs/2016/0905/1_1473064859_424.gif" align="absmiddle" width="300" height="60"></a></td>
+<td align="right"></td>
+<td align="right"><a href="http://muchong.com/bbs/a2449.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/0402/1_1554174594_285.jpg" align="absmiddle"></a></td>
+<td align="right"><a href="http://muchong.com/bbs/a2451.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0622/4273051_1592789976_119.gif" align="absmiddle"></a></td>
+
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper" style=" background: #fff;border: 1px solid #9FC9EB;">
+<div class="index_rank">
+<h2 class="xmc_title xmc_blue"><table width="100%">
+<tr>
+<td><strong class="xmc_ft14 ">
+24小时热门版块排行榜&nbsp;&nbsp;&nbsp;&nbsp;
+</strong>
+</td>
+<td style="text-align: right;">
+<a href="http://muchong.com/bbs/a2468.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#FF0000;font-size: 14px !important">意得辑论文润色满3千送无线充电宝</span></a><a href="http://muchong.com/bbs/a2489.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#080808;font-size: 14px !important">    论文翻译    </span></a></td>
+</tr>
+</table></h2>
+<ul class="solid" style="padding: 5px 0 5px 10px;">
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-437-1" target="_blank">论坛更新日志</a><span class="xmc_c9"> (21072)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-133-1" target="_blank">虫友互识</a><span class="xmc_c9"> (205)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-6-1" target="_blank"><font color=green>休闲灌水</font></a><span class="xmc_c9"> (185)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-307-1" target="_blank"><font color=red>论文道贺祈福</font></a><span class="xmc_c9"> (127)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-198-1" target="_blank"><font color=red>硕博家园</font></a><span class="xmc_c9"> (110)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-346-1" target="_blank"><font color=green>招聘信息布告栏</font></a><span class="xmc_c9"> (69)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-197-1" target="_blank">考博</a><span class="xmc_c9"> (58)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-125-1" target="_blank"><font color=red>论文投稿</font></a><span class="xmc_c9"> (51)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-342-1" target="_blank">博后之家</a><span class="xmc_c9"> (42)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-234-1" target="_blank"><font color=green>基金申请</font></a><span class="xmc_c9"> (35)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-236-1" target="_blank"><font color=red>高分子</font></a><span class="xmc_c9"> (31)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-416-1" target="_blank"><font color=red>版块工场</font></a><span class="xmc_c9"> (29)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-158-1" target="_blank"><font color=red>文献求助</font></a><span class="xmc_c9"> (12)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-430-1" target="_blank">导师招生</a><span class="xmc_c9"> (11)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-408-1" target="_blank">有奖起名</a><span class="xmc_c9"> (9)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-127-1" target="_blank">考研</a><span class="xmc_c9"> (7)</span></li>
+</ul>
+</div>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="center" border="0">
+<tr align="center">
+<td colspan="3">
+</td>
+<td><a href="http://muchong.com/bbs/a2497.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0827/4273051_1598499002_685.gif" align="absmiddle" width="245" height="90"></a></td>
+<td><a href="http://muchong.com/bbs/a1953.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1101/1_1572581076_658.gif" align="absmiddle" width="233" height="90"></a></td>
+</tr>
+<tr>
+<td align="left" width="253"><a href="http://muchong.com/bbs/a2472.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1119/1_1574152091_461.gif" align="absmiddle"></a></td>
+<td align="center" width="253"><a href="http://muchong.com/bbs/a217.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src=http://muchongimg.xmcimg.com//data/bcs/2014/0114/1_1389672826_882.gif></a></td>
+<td align="right" width="254"><a href="http://muchong.com/bbs/a2458.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src="http://muchongimg.xmcimg.com/oss2/img/2019/0416/1_1555393117_141.gif"></a></td>
+<td width="232"><a href="http://muchong.com/bbs/a2505.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0903/w304h4273051_1599121293_563.jpg" align="absmiddle" ></a></td>
+<td width="233"><a href="http://muchong.com/bbs/a429.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0715/4273051_1594799908_306.gif" align="absmiddle" width="223" height="80"></a></td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+<div class="xmc_msearch">
+<div class="xmc_search_text">
+<span class="xmc_fr">
+<a class="xmc_blue" href="misc.php?action=modreg&fid=112&op=add" target="_blank">申请当版主</a>
+<span class="xmc_cc xmc_line">|</span>
+<a href="http://muchong.com/f-112-1-view-archive" target="_blank">存档区</a>
+<span class="xmc_cc xmc_line">|</span><a href="epi.php?fid=112">KEPI排行</a></span>
+<span class="breadcrumb"><a href="index.php">小木虫论坛-学术科研互动平台</a> &raquo; <a href="index.php?gid=109">资源共享区</a> &raquo; <a href="http://muchong.com/f-112-1">课件资源</a> <a href="misc.php?action=myread&id=112&idtype=fid" class="sub_Btn xmc_lm5">订阅</a> </span>
+
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+</div>
+<div class="wrapper">
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">管理团队</strong> (金币库 <a href="forumcredit.php?fid=112" target="_blank" class="xmc_blue">2413.9</a>  <a class="xmc_org" href="forumcredit.php?fid=112" target="_blank">充值</a> ) </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>主管区长：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=1543201" target="_blank">BBC200909</a><a class="xmc_rm10" href="viewpro.php?uid=2776634" target="_blank">梧桐柒夕</a></dd>
+</dl>
+<dl>
+<dt>主管版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=1229128" target="_blank">唐tjg</a><a class="xmc_rm10" href="viewpro.php?uid=2665817" target="_blank">54smile晓</a><a class="xmc_rm10" href="viewpro.php?uid=1477364" target="_blank">々暧-〃</a></dd>
+</dl>
+</div>
+</td>
+<td>
+</td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">杰出贡献者</strong>  </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>荣誉版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=90562" target="_blank">greenhsc</a><a class="xmc_rm10" href="viewpro.php?uid=464255" target="_blank">signal023</a><a class="xmc_rm10" href="viewpro.php?uid=814608" target="_blank">zhangwei19</a><a class="xmc_rm10" href="viewpro.php?uid=468896" target="_blank">梅若鸣</a><a class="xmc_rm10" href="viewpro.php?uid=579844" target="_blank">xply0311</a><a class="xmc_rm10" href="viewpro.php?uid=163025" target="_blank">cuiwk</a><a class="xmc_rm10" href="viewpro.php?uid=1268233" target="_blank">eurekayan</a><a class="xmc_rm10" href="viewpro.php?uid=782124" target="_blank">tyhjqxbz</a><a class="xmc_rm10" href="viewpro.php?uid=1149991" target="_blank">jihaili</a><a class="xmc_rm10" href="viewpro.php?uid=1287965" target="_blank">shaojiyeah</a></dd>
+</dl>
+<dl>
+<dt>荣誉成员：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=360517" target="_blank">风之惑</a><a class="xmc_rm10" href="viewpro.php?uid=492470" target="_blank">2007mky</a><a class="xmc_rm10" href="viewpro.php?uid=529090" target="_blank">zhoukoulk</a><a class="xmc_rm10" href="viewpro.php?uid=604799" target="_blank">nanzai</a><a class="xmc_rm10" href="viewpro.php?uid=611337" target="_blank">gleam0316</a><a class="xmc_rm10" href="viewpro.php?uid=737739" target="_blank">郭继波</a><a class="xmc_rm10" href="viewpro.php?uid=1224944" target="_blank">cgdcool</a><a class="xmc_rm10" href="viewpro.php?uid=1087822" target="_blank">anyluk</a><a class="xmc_rm10" href="viewpro.php?uid=140572" target="_blank">duruo</a><a class="xmc_rm10" href="viewpro.php?uid=1244864" target="_blank">viridwind</a><a class="xmc_rm10" href="viewpro.php?uid=581822" target="_blank">快乐如风6107</a><a class="xmc_rm10" href="viewpro.php?uid=1179258" target="_blank">ANDPing</a><a class="xmc_rm10" href="viewpro.php?uid=602279" target="_blank">fghi000</a><a class="xmc_rm10" href="viewpro.php?uid=1071124" target="_blank">lipengbo_sd</a><a class="xmc_rm10" href="viewpro.php?uid=1170496" target="_blank">老花</a><a class="xmc_rm10" href="viewpro.php?uid=2080860" target="_blank">yanghongzhan</a><a class="xmc_rm10" href="viewpro.php?uid=1737174" target="_blank">user59888</a><a class="xmc_rm10" href="viewpro.php?uid=1186229" target="_blank">zz2317754</a><a class="xmc_rm10" href="viewpro.php?uid=1223787" target="_blank">AnnF</a><a class="xmc_rm10" href="viewpro.php?uid=1070529" target="_blank">fateforever</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+
+
+</div>
+
+
+
+<div class="wrapper">
+<div class="user_Rank bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">KEPI 牛人榜</strong>
+<a class="xmc_rm10 xmc_lm10 xmc_blue" href="epi.php?fid=112">总排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=112&day=7">7日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=112&day=30">30日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=112&day=90">90日排行</a>
+</h2>
+<ul class="solid">
+
+<li> <span ><a href="space.php?view=epi&uid=1287965&fid=112"  title="专家指数: 121" target="_blank">shaojiyeah</a></span><em>+121</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1186229&fid=112"  title="专家指数: 121" target="_blank">zz2317754</a></span><em>+121</em></li>
+<li> <span ><a href="space.php?view=epi&uid=468896&fid=112"  title="专家指数: 94" target="_blank">梅若鸣</a></span><em>+94</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1223787&fid=112"  title="专家指数: 85" target="_blank">AnnF</a></span><em>+85</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1244864&fid=112"  title="专家指数: 57" target="_blank">viridwind</a></span><em>+57</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1322243&fid=112"  title="专家指数: 56" target="_blank">super1106</a></span><em>+56</em></li>
+<li> <span ><a href="space.php?view=epi&uid=742035&fid=112"  title="专家指数: 56" target="_blank">yyp_123</a></span><em>+56</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1450396&fid=112"  title="专家指数: 51" target="_blank">果断悉尼</a></span><em>+51</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1156223&fid=112"  title="专家指数: 44" target="_blank">445941729</a></span><em>+44</em></li>
+<li> <span ><a href="space.php?view=epi&uid=654237&fid=112"  title="专家指数: 38" target="_blank">xiaoshm</a></span><em>+38</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1268233&fid=112"  title="专家指数: 37" target="_blank">eurekayan</a></span><em>+37</em></li>
+<li> <span ><a href="space.php?view=epi&uid=427678&fid=112"  title="专家指数: 36" target="_blank">yaojx01</a></span><em>+36</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1071124&fid=112"  title="专家指数: 35" target="_blank">lipengbo_sd</a></span><em>+35</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1087822&fid=112"  title="专家指数: 32" target="_blank">anyluk</a></span><em>+32</em></li>
+<li> <span ><a href="space.php?view=epi&uid=814608&fid=112"  title="专家指数: 32" target="_blank">zhangwei19</a></span><em>+32</em></li>
+<li> <span ><a href="space.php?view=epi&uid=602279&fid=112"  title="专家指数: 30" target="_blank">fghi000</a></span><em>+30</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1224944&fid=112"  title="专家指数: 29" target="_blank">cgdcool</a></span><em>+29</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1399925&fid=112"  title="专家指数: 27" target="_blank">qianying0126</a></span><em>+27</em></li>
+<li> <span ><a href="space.php?view=epi&uid=782124&fid=112"  title="专家指数: 26" target="_blank">tyhjqxbz</a></span><em>+26</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1134761&fid=112"  title="专家指数: 25" target="_blank">龙腾宝宝</a></span><em>+25</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1674736&fid=112"  title="专家指数: 23" target="_blank">雷光月</a></span><em>+23</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1179258&fid=112"  title="专家指数: 23" target="_blank">ANDPing</a></span><em>+23</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1365181&fid=112"  title="专家指数: 22" target="_blank">江南的竹</a></span><em>+22</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1344620&fid=112"  title="专家指数: 21" target="_blank">panhao666</a></span><em>+21</em></li>
+</ul>
+</div>
+<div class="forum_explan bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">版块说明</strong></h2>
+<dl class="solid">
+<li><font><b>课件资源版欢迎您！</b></font><br>
+<font><b><font color="green">一、本版是共享课件资源和课件制作素材的平台；是资源版块，谢绝求助帖</font> <br>
+二、请在发帖前务必阅读：<a href="http://muchong.com/t-4328596-1" target="_blank"><font color="red">《课件资源版版规》</a></font>；<font color="purple">（1）发贴前请先搜索是否重复；（2）帖子标题前缀注明【课件】【讲义】【笔记】【教程】【视频】后缀注明出处；（3）对资源内容进行基本描述及截图描述；（4）课件资源请上传至小木虫本地，视频资源请提供永久链接，禁止单个资源多贴发布，禁止发布与本版主题无关的资源，一经发现处罚20个BB</font><br>
+<font color="blue">三、发布素材类和模板类资源奖励1-5BB；专业学科类课件发帖即奖励5-15BB；学位答辩、基金答辩、结题汇报或是名家讲座发帖即奖励15-50BB</font> <br>
+<font color="blue">四、对于单贴附件5M~10M的奖励5BB；10M~50M的奖励10BB；50~100M的奖励15BB；100M以上的奖励20BB；单个资源禁止分多次发贴，如有发现扣除大文献奖励并加罚5BB，多次违规者处以20BB以上处罚。</font><br>
+<font color="blue">五、精华帖奖励：Ⅰ级：评阅≥100及BB≥50奖KEPI1个；Ⅱ级：评阅≥200及BB≥100再奖2个；Ⅲ级：评阅≥500及BB≥200再奖3个。超过版主评阅时间的，楼主可以回复新帖并通知版主补发KEPI和BB。</font></b></font><br>
+<font color="red"><b> <font>本版快速通道：</font></font> </b><br />
+<a href="http://muchong.com/t-5409962-1" target="_blank"><font color="Blue"><b><font>【版主专家顾问招聘】</font></font></b></a>&nbsp;&nbsp;<a href="http://muchong.com/t-4328682-1" target="_blank"><font color="green"><b><font>【KEPI授予细则】</font></font></b></a>&nbsp;&nbsp;<a href="http://muchong.com/t-4909217-1" target="_blank"><font color="purple"><b><font>【专家顾问工资】</font></font></b></a>&nbsp;&nbsp;<a href="http://muchong.com/t-4168053-1" target="_blank"><font color="green"><b><font>【版主活动经费】</font></font></b></a></li>
+</dl>
+</div>
+<div class="forum_Post bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">全论坛公告</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-13642817-1" target="_blank" class="xmc_ft14" title="看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被封号！">看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-13110166-1-amp;pid-1#pid1" target="_blank" class="xmc_ft14" title="【2019年度注册执考区】招聘版主/专家顾问专贴">【2019年度注册执考区】招聘版主/专家顾问专贴</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11530701-1" target="_blank" class="xmc_ft14" title="人文经济区相关版块进行重新调整公告">人文经济区相关版块进行重新调整公告</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11513921-1-pid-1#pid1" target="_blank" class="xmc_ft14" title="专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了~~">专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11264359-1" target="_blank" class="xmc_ft14" title="【人文经济区】人文经济区成立暨版主招聘简章">【人文经济区】人文经济区成立暨版主招聘简章</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9456136-1" target="_blank" class="xmc_ft14" title="【文献检索交流活动】你的方向你做主，检索文献快准稳">【文献检索交流活动】你的方向你做主，检索文献快准稳</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6988213-1" target="_blank" class="xmc_ft14" title="【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊跃申请）">【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8698212-1" target="_blank" class="xmc_ft14" title="【有奖征集活动】文献链接检索交流——实例版">【有奖征集活动】文献链接检索交流——实例版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5276734-1" target="_blank" class="xmc_ft14" title="【文献求助区】代理Proxy资源版招聘专家顾问">【文献求助区】代理Proxy资源版招聘专家顾问</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-49210-1-view-old" target="_blank" class="xmc_ft14" title="小木虫论坛基本规则(会员必读)">小木虫论坛基本规则(会员必读)</a></li>
+</ul>
+</div>
+<div class="forum_Post bg_global">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">板块置顶</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-4775971-1" target="_blank"  title="【课件】专利申请程序与专利撰写" class="xmc_ft14">【课件】专利申请程序与专利撰写</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5124906-1" target="_blank"  title="【课件】基础有机化学（邢其毅 第三版 随书光盘）" class="xmc_ft14">【课件】基础有机化学（邢其毅 第三版 随书光盘）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7349323-1" target="_blank"  title="【讲义】电化学研究方法和仪器 课程讲义" class="xmc_ft14">【讲义】电化学研究方法和仪器 课程讲义</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3611855-1" target="_blank"  title="【课件】无机化学（大连理工大学）" class="xmc_ft14">【课件】无机化学（大连理工大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5201108-1" target="_blank"  title="【课件】SCI论文写作的点滴体会（南京航空航天大学-顾冬冬）" class="xmc_ft14">【课件】SCI论文写作的点滴体会（南京航空航天大学-顾冬冬 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9753596-1" target="_blank"  title="【模板】ppt绝妙素材——时间轴模板大全" class="xmc_ft14">【模板】ppt绝妙素材——时间轴模板大全</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7278120-1" target="_blank"  title="【课件】《最吸引人的PPT设计》高清晰PDF全彩版【一看就懂 一学就会】早该这样学PPT" class="xmc_ft14">【课件】《最吸引人的PPT设计》高清晰PDF全彩版【一看就懂 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5788263-1" target="_blank"  title="【课件】晶体生长" class="xmc_ft14">【课件】晶体生长</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3083883-1" target="_blank"  title="【课件】统计学傻瓜指南+生态学实验设计" class="xmc_ft14">【课件】统计学傻瓜指南+生态学实验设计</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4610829-1" target="_blank"  title="【课件】材料科学基础（北京科技大学）" class="xmc_ft14">【课件】材料科学基础（北京科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3323739-1" target="_blank" style="font-weight:bold;" title="【课件】石墨烯碳纳米材料（斯坦福大学）" class="xmc_ft14">【课件】石墨烯碳纳米材料（斯坦福大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7006320-1" target="_blank"  title="【模版】英文简历模板-乔布简历——-各种英文版简历" class="xmc_ft14">【模版】英文简历模板-乔布简历——-各种英文版简历</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6353077-1" target="_blank"  title="★★★★★中国药科大学资料典藏合集，以搜索，无重复！！！！楼主珍藏版★★" class="xmc_ft14">★★★★★中国药科大学资料典藏合集，以搜索，无重复！！ </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9417948-1" target="_blank"  title="【模板】各种PPT图表模板，1088页 你值得拥有" class="xmc_ft14">【模板】各种PPT图表模板，1088页 你值得拥有</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3156413-1" target="_blank" style="font-weight:bold;color: purple" title="【教程】用PPT绘制三维图形教程——让你的技巧达到专家级别" class="xmc_ft14">【教程】用PPT绘制三维图形教程——让你的技巧达到专家级 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3140446-1" target="_blank" style="font-weight:bold;" title="【课件】高中化学课件集" class="xmc_ft14">【课件】高中化学课件集</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3231567-1" target="_blank" style="font-weight:bold;color: purple" title="【教程】如何在PPT中插入动画、视频、音频、解说等" class="xmc_ft14">【教程】如何在PPT中插入动画、视频、音频、解说等</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7697949-1" target="_blank"  title="【课件】高等数学 同济大学 第六版上下册" class="xmc_ft14">【课件】高等数学 同济大学 第六版上下册</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8357982-1" target="_blank"  title="【课件】值得收藏的英语科技论文写作指导宝典！！（PPT,251页）" class="xmc_ft14">【课件】值得收藏的英语科技论文写作指导宝典！！（PPT,2 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4843780-1" target="_blank"  title="【课件】稀土发光材料" class="xmc_ft14">【课件】稀土发光材料</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3599196-1" target="_blank" style="font-weight:bold;" title="【课件】美容营养学（上海中医药大学）" class="xmc_ft14">【课件】美容营养学（上海中医药大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8937377-1" target="_blank"  title="【模板】个人收藏的一大波ppt模板，拿出来共享了" class="xmc_ft14">【模板】个人收藏的一大波ppt模板，拿出来共享了</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3373653-1" target="_blank"  title="【课件】材料科学基础（西安交大）" class="xmc_ft14">【课件】材料科学基础（西安交大）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6434786-1" target="_blank"  title="【课件】数学物理方法与计算机仿真【电子科技大学杨华军】" class="xmc_ft14">【课件】数学物理方法与计算机仿真【电子科技大学杨华军】</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3372718-1" target="_blank" style="font-weight:bold;" title="【课件】专利知识讲座（浙江大学）" class="xmc_ft14">【课件】专利知识讲座（浙江大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3986508-1" target="_blank"  title="【课件】结构化学课件（北京大学）" class="xmc_ft14">【课件】结构化学课件（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4325032-1" target="_blank" style="font-weight:bold;color: purple" title="【模板】这才是最牛PPT，值得学习！" class="xmc_ft14">【模板】这才是最牛PPT，值得学习！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3331583-1" target="_blank"  title="【课件】荧光光谱分析方法及原理" class="xmc_ft14">【课件】荧光光谱分析方法及原理</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10311498-1" target="_blank"  title="【课件】波谱解析课件 核磁、质谱、红外、紫外，内容全面、浅显易懂。" class="xmc_ft14">【课件】波谱解析课件 核磁、质谱、红外、紫外，内容全面 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3609710-1" target="_blank"  title="【课件】有机化学（南开大学）" class="xmc_ft14">【课件】有机化学（南开大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10229719-1" target="_blank"  title="特别详细的 origin 8.5 PPT 教程448页（山东农业大学化学与材料科学学院）" class="xmc_ft14">特别详细的 origin 8.5 PPT 教程448页（山东农业大学化学 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6759994-1" target="_blank" style="font-weight:bold;color: blue" title="【课件】时间管理 做一个高效率不拖延的人——沪江李参" class="xmc_ft14">【课件】时间管理 做一个高效率不拖延的人——沪江李参</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7370136-1" target="_blank"  title="【课件】三大光谱解析（IR/NMR/MS）.ppt" class="xmc_ft14">【课件】三大光谱解析（IR/NMR/MS）.ppt</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7561631-1" target="_blank"  title="【讲义】How to write a scientific paper——Elsevier内部资料" class="xmc_ft14">【讲义】How to write a scientific paper——Elsevier内 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4630554-1" target="_blank"  title="【课件】基础有机化学（第3版裴伟伟 邢其毅）" class="xmc_ft14">【课件】基础有机化学（第3版裴伟伟 邢其毅）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3310889-1" target="_blank"  title="【课件】高等数学（同济大学）" class="xmc_ft14">【课件】高等数学（同济大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6520454-1" target="_blank"  title="【课件】翟中和 第三版 细胞生物学课件 完整版" class="xmc_ft14">【课件】翟中和 第三版 细胞生物学课件 完整版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8356459-1" target="_blank"  title="【模板】绝对强大—— 开题报告 ＆ 毕业答辩PPT模版" class="xmc_ft14">【模板】绝对强大—— 开题报告 ＆ 毕业答辩PPT模版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7116295-1" target="_blank"  title="【素材】超实用的ppt讲解大全" class="xmc_ft14">【素材】超实用的ppt讲解大全</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3787446-1" target="_blank" style="font-weight:bold;" title="【课件】化妆品基础知识" class="xmc_ft14">【课件】化妆品基础知识</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6717025-1" target="_blank"  title="【课件】微生物学课件（周德庆版）" class="xmc_ft14">【课件】微生物学课件（周德庆版）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7961606-1" target="_blank"  title="【课件】授人以鱼不如授人以渔，教你如何PPT图表美化" class="xmc_ft14">【课件】授人以鱼不如授人以渔，教你如何PPT图表美化</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4066951-1" target="_blank"  title="【课件】药物的体内过程和药物代谢动力学（中国医科大学）" class="xmc_ft14">【课件】药物的体内过程和药物代谢动力学（中国医科大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3132149-1" target="_blank" style="font-weight:bold;" title="【教程】利用PPT做动画，你行吗？！！" class="xmc_ft14">【教程】利用PPT做动画，你行吗？！！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5651218-1" target="_blank"  title="【课件】固体物理课件ppt完全版" class="xmc_ft14">【课件】固体物理课件ppt完全版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5683327-1" target="_blank" style="font-weight:bold;" title="论文排版须知，不得不知的排版方法" class="xmc_ft14">论文排版须知，不得不知的排版方法</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3408085-1" target="_blank"  title="【课件】高等无机化学（中科院）" class="xmc_ft14">【课件】高等无机化学（中科院）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3931873-1" target="_blank"  title="【课件】哲学精品课程（北京大学）" class="xmc_ft14">【课件】哲学精品课程（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5105375-1" target="_blank"  title="【课件】专利写作教程" class="xmc_ft14">【课件】专利写作教程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3760356-1" target="_blank"  title="【课件】高分子化学（中科院)" class="xmc_ft14">【课件】高分子化学（中科院)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4246026-1" target="_blank"  title="【课件】X射线衍射仪及其应用简介--陶琨(清华大学)" class="xmc_ft14">【课件】X射线衍射仪及其应用简介--陶琨(清华大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8034577-1" target="_blank"  title="【素材】漂亮的动态PPT模板(比flash还牛_放映后才能看到惊奇效果).ppt" class="xmc_ft14">【素材】漂亮的动态PPT模板(比flash还牛_放映后才能看到惊 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4053497-1" target="_blank"  title="【课件】抗肿瘤靶向药物概论（北京大学）" class="xmc_ft14">【课件】抗肿瘤靶向药物概论（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10233590-1" target="_blank"  title="【课件】如何进行英文写作ppt" class="xmc_ft14">【课件】如何进行英文写作ppt</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10275158-1" target="_blank"  title="【模板】师兄，师姐们多年的积累PPT模板，框架，答辩方面的东西！" class="xmc_ft14">【模板】师兄，师姐们多年的积累PPT模板，框架，答辩方面 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3560399-1" target="_blank" style="font-weight:bold;" title="【图表】PPT图表巨无霸Ⅱ" class="xmc_ft14">【图表】PPT图表巨无霸Ⅱ</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8385101-1" target="_blank"  title="【教程】半年12篇sci牛人教你如何读文献与写论文(精华版)" class="xmc_ft14">【教程】半年12篇sci牛人教你如何读文献与写论文(精华版)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10622103-1" target="_blank"  title="【讲义】Excel2010函数公式释义及示例大全（434页）" class="xmc_ft14">【讲义】Excel2010函数公式释义及示例大全（434页）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10953516-1" target="_blank"  title="【模板】学术汇报类PPT模板图表素材127页" class="xmc_ft14">【模板】学术汇报类PPT模板图表素材127页</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3373672-1" target="_blank" style="font-weight:bold;" title="【课件】材料化学（清华大学）" class="xmc_ft14">【课件】材料化学（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5057347-1" target="_blank"  title="【课件】常见的有机合成及其思路" class="xmc_ft14">【课件】常见的有机合成及其思路</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10592961-1" target="_blank"  title="10套精品ppt模板——全动态的哦！" class="xmc_ft14">10套精品ppt模板——全动态的哦！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3989499-1" target="_blank" style="font-weight:bold;" title="【课件】天才就是这样思考的" class="xmc_ft14">【课件】天才就是这样思考的</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3467884-1" target="_blank"  title="【模板】史上最全的PPT模板图表素材集合（730页）" class="xmc_ft14">【模板】史上最全的PPT模板图表素材集合（730页）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12436377-1" target="_blank"  title="【素材】20套超精美微粒体PPT图表（PPT必备精品资源）" class="xmc_ft14">【素材】20套超精美微粒体PPT图表（PPT必备精品资源）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3795655-1" target="_blank"  title="【课件】高等有机化学（浙江大学）" class="xmc_ft14">【课件】高等有机化学（浙江大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3864632-1" target="_blank" style="font-weight:bold;color: purple" title="【模板】重磅推荐PPT模板库" class="xmc_ft14">【模板】重磅推荐PPT模板库</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9517853-1" target="_blank"  title="【教程】无机化学简明教程" class="xmc_ft14">【教程】无机化学简明教程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10727919-1" target="_blank"  title="【模板】价值上千的精美PPT模板" class="xmc_ft14">【模板】价值上千的精美PPT模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10908188-1" target="_blank"  title="【模板】自己整理的精美PPT模板及背景图案" class="xmc_ft14">【模板】自己整理的精美PPT模板及背景图案</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4908705-1" target="_blank"  title="【素材】开题报告ppt，毕业答辩ppt" class="xmc_ft14">【素材】开题报告ppt，毕业答辩ppt</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4129801-1" target="_blank" style="font-weight:bold;" title="【课件】经典汽车构造 汽车分类及汽车结构介绍（汽车基本知识扫盲）" class="xmc_ft14">【课件】经典汽车构造 汽车分类及汽车结构介绍（汽车基本 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3463136-1" target="_blank"  title="【课件】博弈论（哈佛大学）" class="xmc_ft14">【课件】博弈论（哈佛大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4292534-1" target="_blank"  title="【课件】仪器分析网络课件——张新荣(清华大学)" class="xmc_ft14">【课件】仪器分析网络课件——张新荣(清华大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5139072-1" target="_blank"  title="【课件】实验室安全培训PPT" class="xmc_ft14">【课件】实验室安全培训PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4321629-1" target="_blank"  title="【课件】 生物化学课件（复旦大学）" class="xmc_ft14">【课件】 生物化学课件（复旦大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3632542-1" target="_blank"  title="【教程】PPT制作教程" class="xmc_ft14">【教程】PPT制作教程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5165549-1" target="_blank"  title="【课件】NMR解析(中国药科大学研究生课程)" class="xmc_ft14">【课件】NMR解析(中国药科大学研究生课程)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3794670-1" target="_blank" style="font-weight:bold;" title="【素材】动态ppt+一些背景图片" class="xmc_ft14">【素材】动态ppt+一些背景图片</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3978467-1" target="_blank"  title="【课件】药物设计与开发（山东大学）" class="xmc_ft14">【课件】药物设计与开发（山东大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4503188-1" target="_blank" style="font-weight:bold;" title="【课件】垃圾食品" class="xmc_ft14">【课件】垃圾食品</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6041003-1" target="_blank"  title="【课件】光电检测课件PPT，老师留下的好资料" class="xmc_ft14">【课件】光电检测课件PPT，老师留下的好资料</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7936353-1" target="_blank"  title="【课件】科研画流程图必备！！-visio流程图制作详解" class="xmc_ft14">【课件】科研画流程图必备！！-visio流程图制作详解</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4416077-1" target="_blank" style="font-weight:bold;" title="【课件】优化实验方法" class="xmc_ft14">【课件】优化实验方法</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7974124-1" target="_blank"  title="【课件】图文并茂visio学习，250多页！！" class="xmc_ft14">【课件】图文并茂visio学习，250多页！！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3931142-1" target="_blank"  title="【课件】锂离子电池生产工艺流程及相关设备" class="xmc_ft14">【课件】锂离子电池生产工艺流程及相关设备</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7989000-1" target="_blank"  title="【课件】英语语法大全，英语语法学习课件，图文并茂" class="xmc_ft14">【课件】英语语法大全，英语语法学习课件，图文并茂</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3687618-1" target="_blank"  title="【课件】有机化学" class="xmc_ft14">【课件】有机化学</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7357467-1" target="_blank"  title="【课件】最优化方法及其Matlab程序设计" class="xmc_ft14">【课件】最优化方法及其Matlab程序设计</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3480932-1" target="_blank"  title="【课件】有机合成（北京化学所）" class="xmc_ft14">【课件】有机合成（北京化学所）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11091760-1" target="_blank"  title="【讲义】化学实验讲义精品，300多页，很详细！！！" class="xmc_ft14">【讲义】化学实验讲义精品，300多页，很详细！！！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4491954-1" target="_blank"  title="【课件】核磁共振谱原理及解析（复旦大学）" class="xmc_ft14">【课件】核磁共振谱原理及解析（复旦大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5036167-1" target="_blank"  title="【课件】Matlab绘图教程(大量实例PPT) 【转载】" class="xmc_ft14">【课件】Matlab绘图教程(大量实例PPT) 【转载】</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5176576-1" target="_blank"  title="【教程】CAD教程笔记(精版编)" class="xmc_ft14">【教程】CAD教程笔记(精版编)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3245658-1" target="_blank"  title="【课件】非常实用的国际会议模板和教材" class="xmc_ft14">【课件】非常实用的国际会议模板和教材</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3729607-1" target="_blank"  title="【课件】新生有机化学（耶鲁大学）" class="xmc_ft14">【课件】新生有机化学（耶鲁大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8482028-1" target="_blank"  title="【课件】【清华大学】有机化学 李艳梅 （目前最全的了吧）" class="xmc_ft14">【课件】【清华大学】有机化学 李艳梅 （目前最全的了吧）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3530048-1" target="_blank"  title="【课件】绿色化学（四川大学）" class="xmc_ft14">【课件】绿色化学（四川大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7295286-1" target="_blank"  title="【课件】食品化学与健康.ppt" class="xmc_ft14">【课件】食品化学与健康.ppt</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8631585-1" target="_blank"  title="【课件】清华环境工程原理PPT" class="xmc_ft14">【课件】清华环境工程原理PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3433812-1" target="_blank"  title="【课件】化工原理（天津大学）" class="xmc_ft14">【课件】化工原理（天津大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12594966-1" target="_blank"  title="【课件】半导体薄膜技术与物理 课件" class="xmc_ft14">【课件】半导体薄膜技术与物理 课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3534559-1" target="_blank"  title="【课件】工业催化原理（厦门大学）" class="xmc_ft14">【课件】工业催化原理（厦门大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3881236-1" target="_blank"  title="【课件】线性代数课件（同济大学)" class="xmc_ft14">【课件】线性代数课件（同济大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4777214-1" target="_blank"  title="【课件】化工设备机械基础(中南大学课件 大连理工出版社 ）" class="xmc_ft14">【课件】化工设备机械基础(中南大学课件 大连理工出版社  </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3556850-1" target="_blank"  title="【课件】催化剂制备方法（中科院大连化物所）" class="xmc_ft14">【课件】催化剂制备方法（中科院大连化物所）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4556824-1" target="_blank"  title="【课件】详细的chemdraw使用教程，绝对物超所值---自己整理的" class="xmc_ft14">【课件】详细的chemdraw使用教程，绝对物超所值---自己整 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3327909-1" target="_blank"  title="【课件】分析化学（武汉大学）" class="xmc_ft14">【课件】分析化学（武汉大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7980786-1" target="_blank"  title="【课件】英语科技论文写作PPT-受益匪浅" class="xmc_ft14">【课件】英语科技论文写作PPT-受益匪浅</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9459740-1" target="_blank"  title="【模板】懒人ppt制作的必备神器——图形动画库" class="xmc_ft14">【模板】懒人ppt制作的必备神器——图形动画库</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3804698-1" target="_blank"  title="【课件】仪器分析，已按章节分开，按需下载。" class="xmc_ft14">【课件】仪器分析，已按章节分开，按需下载。</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4554400-1" target="_blank"  title="【课件】数学史与科学史(拓广知识面，丰富课堂教学的用途)" class="xmc_ft14">【课件】数学史与科学史(拓广知识面，丰富课堂教学的用途)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3675420-1" target="_blank"  title="【课件】无机化学（北京大学）" class="xmc_ft14">【课件】无机化学（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3512825-1" target="_blank"  title="【课件】用于基因和抗癌药物控制释放高分子材料研究（武汉大学）" class="xmc_ft14">【课件】用于基因和抗癌药物控制释放高分子材料研究（武汉 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3334542-1" target="_blank"  title="【课件】模拟电子技术基础（清华大学）" class="xmc_ft14">【课件】模拟电子技术基础（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3160963-1" target="_blank" style="font-weight:bold;" title="【课件】核磁共振图谱解析" class="xmc_ft14">【课件】核磁共振图谱解析</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4592209-1" target="_blank"  title="【课件】《聚合物基复合材料》顾书英版PDF课件！" class="xmc_ft14">【课件】《聚合物基复合材料》顾书英版PDF课件！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2769167-1" target="_blank"  title="【课件】扫描隧道显微镜和原子力显微镜" class="xmc_ft14">【课件】扫描隧道显微镜和原子力显微镜</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5750993-1" target="_blank"  title="【课件】化工原理课件 （天津大学）" class="xmc_ft14">【课件】化工原理课件 （天津大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8163444-1" target="_blank"  title="【课件】SCI期刊论文的撰写、投稿、修改与发表" class="xmc_ft14">【课件】SCI期刊论文的撰写、投稿、修改与发表</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2775964-1" target="_blank"  title="【课件】有机合成化学（兰州大学）" class="xmc_ft14">【课件】有机合成化学（兰州大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5238548-1" target="_blank"  title="【课件】哈佛的幸福课" class="xmc_ft14">【课件】哈佛的幸福课</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5020510-1" target="_blank"  title="【模版】毕业论文答辩各类PPT模板（高校范例、技巧）（非常全）" class="xmc_ft14">【模版】毕业论文答辩各类PPT模板（高校范例、技巧）（非 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5680883-1" target="_blank"  title="【课件】用思维导图概括英语语法" class="xmc_ft14">【课件】用思维导图概括英语语法</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3104688-1" target="_blank"  title="【经验】PPT经常用的115个技巧" class="xmc_ft14">【经验】PPT经常用的115个技巧</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3418497-1" target="_blank"  title="【课件】无机材料合成（厦门大学）" class="xmc_ft14">【课件】无机材料合成（厦门大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6389314-1" target="_blank" style="font-weight:bold;color: blue" title="【模板】学术会议PPT模板和图表、流程图等集合模板" class="xmc_ft14">【模板】学术会议PPT模板和图表、流程图等集合模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5354025-1" target="_blank"  title="【课件】中国药科大学研究生课程波谱解析课件，氢谱+碳谱+波谱解析的几本书。" class="xmc_ft14">【课件】中国药科大学研究生课程波谱解析课件，氢谱+碳谱 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7721822-1" target="_blank"  title="【课件】Origin8.0实验数据处理与曲线拟合" class="xmc_ft14">【课件】Origin8.0实验数据处理与曲线拟合</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6720970-1" target="_blank"  title="【素材】成套化学实验装置图" class="xmc_ft14">【素材】成套化学实验装置图</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12561971-1" target="_blank"  title="【课件】最新凝聚态物理课件+书-加州大学圣地亚哥分校-经典-高清PDF" class="xmc_ft14">【课件】最新凝聚态物理课件+书-加州大学圣地亚哥分校-经 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5201281-1" target="_blank"  title="【教程】【视频】100集高清Photoshop CS6 中文国语视频教程，保证你ps过关！！" class="xmc_ft14">【教程】【视频】100集高清Photoshop CS6 中文国语视频教 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5700987-1" target="_blank"  title="【课件】研究生精品课程 《新能源材料》 --（合肥工业大学）" class="xmc_ft14">【课件】研究生精品课程 《新能源材料》 --（合肥工业大学 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3543447-1" target="_blank"  title="【课件】拉曼光谱（中科大）" class="xmc_ft14">【课件】拉曼光谱（中科大）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4657186-1" target="_blank"  title="【课件】论文选题、研究与写作--清华大学王守清博导" class="xmc_ft14">【课件】论文选题、研究与写作--清华大学王守清博导</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3840353-1" target="_blank"  title="【课件】配位化学（中科院）" class="xmc_ft14">【课件】配位化学（中科院）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5036368-1" target="_blank"  title="【笔记】中科院大牛传授的科研秘诀（内部交流哦~）" class="xmc_ft14">【笔记】中科院大牛传授的科研秘诀（内部交流哦~）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2256081-1" target="_blank"  title="【课件】高等有机合成（南开大学）" class="xmc_ft14">【课件】高等有机合成（南开大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3414548-1" target="_blank" style="font-weight:bold;" title="【课件】仪器分析（美国密西根州立大学）" class="xmc_ft14">【课件】仪器分析（美国密西根州立大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5539282-1" target="_blank"  title="【课件】发明和实用新型专利申请文件撰写基础(来源：国家知识产权局)" class="xmc_ft14">【课件】发明和实用新型专利申请文件撰写基础(来源：国家 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3427200-1" target="_blank"  title="【课件】界面与胶体化学基础（厦门大学）" class="xmc_ft14">【课件】界面与胶体化学基础（厦门大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3936555-1" target="_blank"  title="【课件】新药的发现（北京大学药学院）" class="xmc_ft14">【课件】新药的发现（北京大学药学院）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7461111-1" target="_blank"  title="【课件】PPT图片排版技巧" class="xmc_ft14">【课件】PPT图片排版技巧</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3450875-1" target="_blank"  title="【课件】表面活性剂化学" class="xmc_ft14">【课件】表面活性剂化学</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4742147-1" target="_blank"  title="【课件】材料显微结构分析（清华大学）" class="xmc_ft14">【课件】材料显微结构分析（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3558215-1" target="_blank"  title="【课件】合理营养均衡膳食(国际东方营养药膳学会)" class="xmc_ft14">【课件】合理营养均衡膳食(国际东方营养药膳学会)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3312553-1" target="_blank" style="font-weight:bold;" title="【课件】风水基础知识和日常应用（中欧商学院）" class="xmc_ft14">【课件】风水基础知识和日常应用（中欧商学院）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3532981-1" target="_blank"  title="【课件】制药工艺学（天津大学）" class="xmc_ft14">【课件】制药工艺学（天津大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3173635-1" target="_blank"  title="【课件】经典有机合成讲义汇总（药明康德）" class="xmc_ft14">【课件】经典有机合成讲义汇总（药明康德）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7323775-1" target="_blank"  title="【课件】让你的数据图形更漂亮--Excel图形处理" class="xmc_ft14">【课件】让你的数据图形更漂亮--Excel图形处理</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7274837-1" target="_blank"  title="【课件】最全最易懂的HPLC培训课件，全面了解 HPLC基础知识，图文详解" class="xmc_ft14">【课件】最全最易懂的HPLC培训课件，全面了解 HPLC基础知 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4987104-1" target="_blank"  title="【课件】液相色谱讲座（华东理工大学）" class="xmc_ft14">【课件】液相色谱讲座（华东理工大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4329267-1" target="_blank"  title="【课件】物理化学（中国科技大学）" class="xmc_ft14">【课件】物理化学（中国科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4321566-1" target="_blank"  title="【课件】细胞生物学课件(北京大学)" class="xmc_ft14">【课件】细胞生物学课件(北京大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5528061-1" target="_blank"  title="【课件】有机结构波谱综合解析(高校教师培训）（大连理工大学）" class="xmc_ft14">【课件】有机结构波谱综合解析(高校教师培训）（大连理工 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6623289-1" target="_blank"  title="【课件】动态ppt的excel教程" class="xmc_ft14">【课件】动态ppt的excel教程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4025620-1" target="_blank" style="font-weight:bold;" title="【素材】PPT背景 绝对好用" class="xmc_ft14">【素材】PPT背景 绝对好用</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3535843-1" target="_blank" style="font-weight:bold;" title="【课件】高等有机化学（中科院）" class="xmc_ft14">【课件】高等有机化学（中科院）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4424133-1" target="_blank"  title="【模板】实用PPT模板，适合开组会，作报告用" class="xmc_ft14">【模板】实用PPT模板，适合开组会，作报告用</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4526559-1" target="_blank"  title="【课件】气相色谱培训教程" class="xmc_ft14">【课件】气相色谱培训教程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3787317-1" target="_blank" style="font-weight:bold;" title="【课件】太阳能电池(中科院大连化物所)" class="xmc_ft14">【课件】太阳能电池(中科院大连化物所)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4198371-1" target="_blank" style="font-weight:bold;" title="【讲义】教你从本科生到研究生的华丽转变——怎么搜索SCI" class="xmc_ft14">【讲义】教你从本科生到研究生的华丽转变——怎么搜索SCI</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3803285-1" target="_blank"  title="【课件】化工原理（清华大学）" class="xmc_ft14">【课件】化工原理（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3152602-1" target="_blank"  title="【课件】数据挖掘概念与技术（杭州电子科技大学）" class="xmc_ft14">【课件】数据挖掘概念与技术（杭州电子科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6040274-1" target="_blank"  title="【课件】最全的大学化学课件PPT（全）" class="xmc_ft14">【课件】最全的大学化学课件PPT（全）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3162263-1" target="_blank"  title="【课件】废水生物处理的原理与工艺" class="xmc_ft14">【课件】废水生物处理的原理与工艺</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3698567-1" target="_blank" style="font-weight:bold;" title="【课件】数学之美" class="xmc_ft14">【课件】数学之美</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7326092-1" target="_blank"  title="【课件】物理化学课件（南大化院 傅献彩主编）" class="xmc_ft14">【课件】物理化学课件（南大化院 傅献彩主编）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5366047-1" target="_blank"  title="【课件】《材料表面技术与理论》很全面的一个课件！已搜索，无重复。" class="xmc_ft14">【课件】《材料表面技术与理论》很全面的一个课件！已搜索 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6486638-1" target="_blank"  title="【课件】web of knowledge文献检索（非常详细）" class="xmc_ft14">【课件】web of knowledge文献检索（非常详细）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5429809-1" target="_blank"  title="【笔记】20种常见材料测试方法介绍" class="xmc_ft14">【笔记】20种常见材料测试方法介绍</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3309516-1" target="_blank"  title="【课件】仪器分析（中国科技大学）" class="xmc_ft14">【课件】仪器分析（中国科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3699805-1" target="_blank" style="font-weight:bold;" title="【课件】化学与健康（武汉大学）" class="xmc_ft14">【课件】化学与健康（武汉大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8370565-1" target="_blank"  title="【课件】Matlab经典教程——从入门到精通（PDF,281页，图文并茂）" class="xmc_ft14">【课件】Matlab经典教程——从入门到精通（PDF,281页，图 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3572254-1" target="_blank" style="font-weight:bold;" title="【课件】TEM（清华大学）" class="xmc_ft14">【课件】TEM（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3824053-1" target="_blank" style="font-weight:bold;" title="【课件】饮食与养生（老中医教授）" class="xmc_ft14">【课件】饮食与养生（老中医教授）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8027623-1" target="_blank"  title="【课件】英文科技论文写作与发表 PPT- 北卡 大牛 李百炼指导" class="xmc_ft14">【课件】英文科技论文写作与发表 PPT- 北卡 大牛 李百炼指 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6191442-1" target="_blank"  title="【模板】三篇老外博士答辩的PPT需要的可以看看" class="xmc_ft14">【模板】三篇老外博士答辩的PPT需要的可以看看</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4612960-1" target="_blank"  title="【课件】北京航空航天大学 材料测试与分析（国家精品课程）" class="xmc_ft14">【课件】北京航空航天大学 材料测试与分析（国家精品课程 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3421592-1" target="_blank"  title="【课件】仪器分析（北京大学）" class="xmc_ft14">【课件】仪器分析（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4795290-1" target="_blank"  title="【课件】分析化学课件(武大第五版，中英版都有，配套实验也有)" class="xmc_ft14">【课件】分析化学课件(武大第五版，中英版都有，配套实验 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3390200-1" target="_blank" style="font-weight:bold;" title="【模板】一个非常漂亮的3D动画模板" class="xmc_ft14">【模板】一个非常漂亮的3D动画模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4690581-1" target="_blank"  title="【高清动漫课件】细胞生物学（哈佛大学）" class="xmc_ft14">【高清动漫课件】细胞生物学（哈佛大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3508896-1" target="_blank" style="font-weight:bold;" title="【教程】让你的ppt从混沌到清醒" class="xmc_ft14">【教程】让你的ppt从混沌到清醒</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3599025-1" target="_blank" style="font-weight:bold;" title="【课件】人际交往学（北京大学）" class="xmc_ft14">【课件】人际交往学（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6746194-1" target="_blank" style="font-weight:bold;color: purple" title="【笔记】《怎样写好文献综述——案例及评析》笔记" class="xmc_ft14">【笔记】《怎样写好文献综述——案例及评析》笔记</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7271988-1" target="_blank"  title="【课件】搞定一切数据绘图必看——中科计算机所Excel图表技术精讲" class="xmc_ft14">【课件】搞定一切数据绘图必看——中科计算机所Excel图表 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3459374-1" target="_blank"  title="【课件】纳米材料和纳米结构（武汉科技大学）" class="xmc_ft14">【课件】纳米材料和纳米结构（武汉科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7340498-1" target="_blank"  title="【教程】最全化工设备结构图集" class="xmc_ft14">【教程】最全化工设备结构图集</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3325052-1" target="_blank"  title="【课件】有机合成（上海有机所）" class="xmc_ft14">【课件】有机合成（上海有机所）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7000302-1" target="_blank"  title="【课件】药理学 PPt 所有章节 值得下载" class="xmc_ft14">【课件】药理学 PPt 所有章节 值得下载</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2548687-1" target="_blank"  title="【课件】有机化学（北京大学）" class="xmc_ft14">【课件】有机化学（北京大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4865637-1" target="_blank"  title="【课件】太阳能电池原理" class="xmc_ft14">【课件】太阳能电池原理</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11399768-1" target="_blank"  title="【教程】通用汽车GVDP整车开发流程" class="xmc_ft14">【教程】通用汽车GVDP整车开发流程</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3420520-1" target="_blank"  title="【课件】量子点（国家纳米中心）" class="xmc_ft14">【课件】量子点（国家纳米中心）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3418552-1" target="_blank" style="font-weight:bold;" title="【课件】材料微观分析技术（浙江大学）" class="xmc_ft14">【课件】材料微观分析技术（浙江大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8308173-1" target="_blank"  title="【模板】重磅推荐史上最全——价值50000美金的PPT模板库" class="xmc_ft14">【模板】重磅推荐史上最全——价值50000美金的PPT模板库</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3675148-1" target="_blank"  title="【课件】有机化学波谱分析" class="xmc_ft14">【课件】有机化学波谱分析</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8031717-1" target="_blank"  title="【课件】一个优秀的介绍3d打印的课件" class="xmc_ft14">【课件】一个优秀的介绍3d打印的课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8362310-1" target="_blank"  title="【课件】碳材料（富勒烯，碳纳米管，石墨烯，炭纤维等等）" class="xmc_ft14">【课件】碳材料（富勒烯，碳纳米管，石墨烯，炭纤维等等）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4732360-1" target="_blank"  title="【课件】半导体物理与器件--Neaman" class="xmc_ft14">【课件】半导体物理与器件--Neaman</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3172993-1" target="_blank" style="font-weight:bold;" title="【教程】100项PPT制作技术" class="xmc_ft14">【教程】100项PPT制作技术</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7334912-1" target="_blank"  title="【素材】博士学位论文答辩PPT（国外经典）" class="xmc_ft14">【素材】博士学位论文答辩PPT（国外经典）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3425902-1" target="_blank" style="font-weight:bold;color: purple" title="【教程】让你的PPT从游击队到正规军（锐普）" class="xmc_ft14">【教程】让你的PPT从游击队到正规军（锐普）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7961529-1" target="_blank"  title="【模版】PPT图表模板整合大全139页" class="xmc_ft14">【模版】PPT图表模板整合大全139页</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9309025-1" target="_blank"  title="【课件】同济六版高等数学课件。" class="xmc_ft14">【课件】同济六版高等数学课件。</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10338696-1" target="_blank"  title="【模板】一个博士给的PPT模板，感觉很好，一起分享一下。" class="xmc_ft14">【模板】一个博士给的PPT模板，感觉很好，一起分享一下。</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5014169-1" target="_blank"  title="【课件】现代材料测试技术！（XRD，TEM，SEM及样品制备方法视频）！！！" class="xmc_ft14">【课件】现代材料测试技术！（XRD，TEM，SEM及样品制备方 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4577166-1" target="_blank"  title="【课件】核磁共振氢谱课件与习题与解答" class="xmc_ft14">【课件】核磁共振氢谱课件与习题与解答</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12263352-1" target="_blank"  title="【课件】高等应用数学问题的MATLAB求解（中文）课件" class="xmc_ft14">【课件】高等应用数学问题的MATLAB求解（中文）课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5058602-1" target="_blank"  title="拉曼光谱教学PPT" class="xmc_ft14">拉曼光谱教学PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3414242-1" target="_blank"  title="【教程】专业PPT设计师速成方案（锐普）" class="xmc_ft14">【教程】专业PPT设计师速成方案（锐普）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5691675-1" target="_blank" style="font-weight:bold;" title="【模板】4套实用论文答辩PPT模板" class="xmc_ft14">【模板】4套实用论文答辩PPT模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6711109-1" target="_blank"  title="学术会议Poster模板（80多个）" class="xmc_ft14">学术会议Poster模板（80多个）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6208774-1" target="_blank"  title="【课件】药物设计学（复旦大学）" class="xmc_ft14">【课件】药物设计学（复旦大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10990782-1" target="_blank"  title="【教程】非常非常实用的干货---如何制作高端科研PPT-145页  真的有内涵" class="xmc_ft14">【教程】非常非常实用的干货---如何制作高端科研PPT-145页 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4608608-1" target="_blank"  title="【课件】流体力学（国家精品课程-上海交大张卫老师课件）-附高级讲义" class="xmc_ft14">【课件】流体力学（国家精品课程-上海交大张卫老师课件） </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3498528-1" target="_blank"  title="【课件】药物化学-执业药师培训（中国药科大学）" class="xmc_ft14">【课件】药物化学-执业药师培训（中国药科大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3416551-1" target="_blank" style="font-weight:bold;" title="【课件】化学实验基本操作" class="xmc_ft14">【课件】化学实验基本操作</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5239394-1" target="_blank"  title="【课件】 精细有机合成化学及工艺学(第二版)(唐培堃）版及答案" class="xmc_ft14">【课件】 精细有机合成化学及工艺学(第二版)(唐培堃）版及 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3462405-1" target="_blank"  title="【课件】有机人名反应（浙江大学）" class="xmc_ft14">【课件】有机人名反应（浙江大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9436873-1" target="_blank"  title="【课件】南京大学《物理化学》ppt教案" class="xmc_ft14">【课件】南京大学《物理化学》ppt教案</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3972991-1" target="_blank"  title="【笔记】仪器分析知识点整理" class="xmc_ft14">【笔记】仪器分析知识点整理</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12193436-1" target="_blank"  title="【课件】台湾清华大学陈福荣教授《材料物理性质》课程课件PDF+附英文教材参考书" class="xmc_ft14">【课件】台湾清华大学陈福荣教授《材料物理性质》课程课件 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-12093869-1" target="_blank"  title="【模板】2018版PPT模板做汇报必备" class="xmc_ft14">【模板】2018版PPT模板做汇报必备</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8487763-1" target="_blank"  title="【课件】MATLAB精品教程课件" class="xmc_ft14">【课件】MATLAB精品教程课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5105168-1" target="_blank"  title="【课件】材料科学基础(王清老师、大连理工大学）" class="xmc_ft14">【课件】材料科学基础(王清老师、大连理工大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3379064-1" target="_blank"  title="【课件】数字图像处理和分析技术（清华大学）" class="xmc_ft14">【课件】数字图像处理和分析技术（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3586307-1" target="_blank" style="font-weight:bold;" title="【课件】天然药物化学成分提取分离方法" class="xmc_ft14">【课件】天然药物化学成分提取分离方法</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3750978-1" target="_blank" style="font-weight:bold;" title="【课件】当前新材料研究热点领域" class="xmc_ft14">【课件】当前新材料研究热点领域</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3331662-1" target="_blank"  title="【课件】仪器分析经典动画" class="xmc_ft14">【课件】仪器分析经典动画</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3310707-1" target="_blank" style="font-weight:bold;" title="【课件】X 射线衍射分析（华中科技大学）" class="xmc_ft14">【课件】X 射线衍射分析（华中科技大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2096342-1" target="_blank"  title="【课件】MBA经典教材大集合" class="xmc_ft14">【课件】MBA经典教材大集合</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4041580-1" target="_blank" style="font-weight:bold;" title="【课件】珠宝玉石鉴定" class="xmc_ft14">【课件】珠宝玉石鉴定</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5404858-1" target="_blank"  title="【课件】精细化工概论--南京工业" class="xmc_ft14">【课件】精细化工概论--南京工业</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5239670-1" target="_blank"  title="【课件】分析化学 +仪器分析（武汉大学）" class="xmc_ft14">【课件】分析化学 +仪器分析（武汉大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2335802-1" target="_blank"  title="【课件】仪器分析课件动画" class="xmc_ft14">【课件】仪器分析课件动画</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8369726-1" target="_blank"  title="【素材】四百页PPT素材库(权威版)" class="xmc_ft14">【素材】四百页PPT素材库(权威版)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3629751-1" target="_blank" style="font-weight:bold;" title="【课件】有机化合物结构鉴定与有机波谱学" class="xmc_ft14">【课件】有机化合物结构鉴定与有机波谱学</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3406590-1" target="_blank" style="font-weight:bold;" title="【课件】材料科学基础（清华大学）" class="xmc_ft14">【课件】材料科学基础（清华大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4982070-1" target="_blank"  title="【课件】如何写一篇高水平的科技论文" class="xmc_ft14">【课件】如何写一篇高水平的科技论文</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3310982-1" target="_blank"  title="【课件】X射线光电子能谱分析方法及原理(XPS)" class="xmc_ft14">【课件】X射线光电子能谱分析方法及原理(XPS)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3624149-1" target="_blank" style="font-weight:bold;" title="【课件】色谱分析（浙江大学）" class="xmc_ft14">【课件】色谱分析（浙江大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7968879-1" target="_blank"  title="【教程】Photoshop教程(完整版)，287页，PS不求人！！" class="xmc_ft14">【教程】Photoshop教程(完整版)，287页，PS不求人！！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5139111-1" target="_blank"  title="【讲义】完整的SCI论文写法攻略(PDF版)" class="xmc_ft14">【讲义】完整的SCI论文写法攻略(PDF版)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9303464-1" target="_blank"  title="【教程】AutoCAD 2015平面绘图从入门到精通视频教程带完整素材" class="xmc_ft14">【教程】AutoCAD 2015平面绘图从入门到精通视频教程带完整 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4100209-1" target="_blank"  title="【模板】PPT-SmartArt(245个)，非常实用" class="xmc_ft14">【模板】PPT-SmartArt(245个)，非常实用</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7955190-1" target="_blank"  title="【素材】超强的岗位竞聘述职报告ppt模板，找工作快来下啦！！" class="xmc_ft14">【素材】超强的岗位竞聘述职报告ppt模板，找工作快来下啦 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3282951-1" target="_blank" style="font-weight:bold;" title="【课件】核磁共振（NMR）的原理和一些图谱分析的技巧" class="xmc_ft14">【课件】核磁共振（NMR）的原理和一些图谱分析的技巧</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11052046-1" target="_blank"  title="【模板】大学毕业论文答辩PPT模板" class="xmc_ft14">【模板】大学毕业论文答辩PPT模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6746159-1" target="_blank" style="font-weight:bold;color: green" title="【课件】Origin软件在实验数据处理中的应用" class="xmc_ft14">【课件】Origin软件在实验数据处理中的应用</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3409269-1" target="_blank"  title="【课件】有机化学" class="xmc_ft14">【课件】有机化学</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9769104-1" target="_blank"  title="【教程】ppt配色与排版教程总结" class="xmc_ft14">【教程】ppt配色与排版教程总结</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5039778-1" target="_blank"  title="【讲义】XRD衍射及其应用(浙江大学)" class="xmc_ft14">【讲义】XRD衍射及其应用(浙江大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3927379-1" target="_blank"  title="【课件】有机波谱分析(天津大学)" class="xmc_ft14">【课件】有机波谱分析(天津大学)</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10179588-1" target="_blank"  title="【模板】一些ppt模板" class="xmc_ft14">【模板】一些ppt模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11866616-1" target="_blank"  title="【教程】XPS教程，推荐学习" class="xmc_ft14">【教程】XPS教程，推荐学习</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11938584-1" target="_blank"  title="配位化学课件" class="xmc_ft14">配位化学课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11921195-1" target="_blank"  title="【课件】R语言PPT" class="xmc_ft14">【课件】R语言PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11259835-1" target="_blank" style="font-weight:bold;color: red" title="【模板】毕业答辩PPT模板 微立体" class="xmc_ft14">【模板】毕业答辩PPT模板 微立体</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11597672-1" target="_blank"  title="【课件】大连理工大学分析化学精品课件分享" class="xmc_ft14">【课件】大连理工大学分析化学精品课件分享</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-7778604-1" target="_blank"  title="【课件】Origin绘图培训" class="xmc_ft14">【课件】Origin绘图培训</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3695386-1" target="_blank"  title="【课件】ELISA、酶标仪、洗板机（上海交通大学）" class="xmc_ft14">【课件】ELISA、酶标仪、洗板机（上海交通大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4458881-1" target="_blank"  title="【课件】C语言课件 (清华大学出版社  谭浩强 )" class="xmc_ft14">【课件】C语言课件 (清华大学出版社  谭浩强 )</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11854878-1" target="_blank"  title="【教程】41份国基标书，很实用" class="xmc_ft14">【教程】41份国基标书，很实用</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4608395-1" target="_blank"  title="【课件】模式识别（国防科技大学，国家级精品课程课件）" class="xmc_ft14">【课件】模式识别（国防科技大学，国家级精品课程课件）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10736455-1" target="_blank"  title="【模板】三个异常精美的PPT，据说价值100美元&amp;" class="xmc_ft14">【模板】三个异常精美的PPT，据说价值100美元&amp;</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10703146-1" target="_blank"  title="【课件】金日光《高分子物理》第四版课件" class="xmc_ft14">【课件】金日光《高分子物理》第四版课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11030115-1" target="_blank"  title="【课件】上交大《材料科学基础》课件" class="xmc_ft14">【课件】上交大《材料科学基础》课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4474705-1" target="_blank" style="font-weight:bold;" title="ppt模板精品库，很多过来看看" class="xmc_ft14">ppt模板精品库，很多过来看看</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11566405-1" target="_blank"  title="【课件】以周公度编写的《结构化学基础（第4版）》为教材的教学课件以及试卷" class="xmc_ft14">【课件】以周公度编写的《结构化学基础（第4版）》为教材 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6114758-1" target="_blank"  title="【教程】word通常问题解答及使用技巧" class="xmc_ft14">【教程】word通常问题解答及使用技巧</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11664835-1" target="_blank"  title="【课件】河北工业大学考研---化工原理课件、课后习题答案及专业课真题" class="xmc_ft14">【课件】河北工业大学考研---化工原理课件、课后习题答案 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10811000-1" target="_blank"  title="【课件】量子化学资料gaussian及计算方法" class="xmc_ft14">【课件】量子化学资料gaussian及计算方法</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11568088-1" target="_blank"  title="【课件】以王积涛编写的《有机化学》第三版为教材的教学课件及习题（部分）" class="xmc_ft14">【课件】以王积涛编写的《有机化学》第三版为教材的教学课 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11137093-1" target="_blank"  title="【模板】十款淡雅动态学术PPT" class="xmc_ft14">【模板】十款淡雅动态学术PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11457033-1" target="_blank"  title="【课件】邢版基础有机化学   光盘学习资料" class="xmc_ft14">【课件】邢版基础有机化学   光盘学习资料</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11381827-1" target="_blank"  title="动态、静态ppt模板，3G" class="xmc_ft14">动态、静态ppt模板，3G</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9690662-1" target="_blank"  title="SCI经典句子汇总" class="xmc_ft14">SCI经典句子汇总</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11559423-1" target="_blank"  title="【讲义】高中物理巧学巧解大全" class="xmc_ft14">【讲义】高中物理巧学巧解大全</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10953374-1" target="_blank"  title="【课件】化工原理-流体流动" class="xmc_ft14">【课件】化工原理-流体流动</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11183862-1" target="_blank"  title="【教程】Origin8.0视频版教程全集" class="xmc_ft14">【教程】Origin8.0视频版教程全集</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11181746-1" target="_blank"  title="【模板】10份精美优质PPT模板（第三弹） —— 适用于学术演讲和教学课件" class="xmc_ft14">【模板】10份精美优质PPT模板（第三弹） —— 适用于学术 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11167013-1" target="_blank"  title="【课件】港科大 信号系统 英文课件   经典!" class="xmc_ft14">【课件】港科大 信号系统 英文课件   经典!</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2470926-1" target="_blank"  title="【课件】药物分析" class="xmc_ft14">【课件】药物分析</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11053090-1" target="_blank"  title="【模板】毕业答辩ppt模板 扁平化" class="xmc_ft14">【模板】毕业答辩ppt模板 扁平化</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9148202-1" target="_blank"  title="【课件】国科大SPSS课件，实用易懂" class="xmc_ft14">【课件】国科大SPSS课件，实用易懂</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5071135-1" target="_blank"  title="【课件】电化学课件（山东大学）" class="xmc_ft14">【课件】电化学课件（山东大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11051972-1" target="_blank"  title="【素材】精美PPT素材，中国各省LOGO" class="xmc_ft14">【素材】精美PPT素材，中国各省LOGO</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10957523-1" target="_blank"  title="【模板】曲线精美PPT图表" class="xmc_ft14">【模板】曲线精美PPT图表</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10990666-1" target="_blank"  title="【模板】PPT矢量图素材大小图标库" class="xmc_ft14">【模板】PPT矢量图素材大小图标库</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10956540-1" target="_blank"  title="【教程】氯碱工业动画" class="xmc_ft14">【教程】氯碱工业动画</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3566810-1" target="_blank" style="font-weight:bold;" title="【课件】面试与面试技巧" class="xmc_ft14">【课件】面试与面试技巧</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10994555-1" target="_blank"  title="【教程】研究生论文WORD排版知识培训" class="xmc_ft14">【教程】研究生论文WORD排版知识培训</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10953444-1" target="_blank"  title="【模板】超全PPT必备的3D小人素材模板库--共800多页" class="xmc_ft14">【模板】超全PPT必备的3D小人素材模板库--共800多页</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5354379-1" target="_blank"  title="气相色谱精华汇总" class="xmc_ft14">气相色谱精华汇总</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4592708-1" target="_blank"  title="【课件】关于电子顺磁共振（ESR）中g值和A值解析" class="xmc_ft14">【课件】关于电子顺磁共振（ESR）中g值和A值解析</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5240450-1" target="_blank"  title="[课件]形状记忆合金PPT" class="xmc_ft14">[课件]形状记忆合金PPT</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10309148-1" target="_blank"  title="【课件】有机化学九十六种反应机理" class="xmc_ft14">【课件】有机化学九十六种反应机理</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10639891-1" target="_blank"  title="【教程】Zemax光纤输出光斑整形光源的选择问题（非序列模式）018.pdf" class="xmc_ft14">【教程】Zemax光纤输出光斑整形光源的选择问题（非序列模 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10376398-1" target="_blank"  title="【课件】郭慕孙、李鸿忠《流态化手册》" class="xmc_ft14">【课件】郭慕孙、李鸿忠《流态化手册》</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10342190-1" target="_blank"  title="【课件】线性代数课件一份（同济大学）" class="xmc_ft14">【课件】线性代数课件一份（同济大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3200766-1" target="_blank"  title="【课件】药物多晶型研究及手性分子结晶拆分" class="xmc_ft14">【课件】药物多晶型研究及手性分子结晶拆分</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10905163-1" target="_blank"  title="【教程】ENDnote史上最全最直接教程，让你快速了解ENDnote，管理文献SOeasy" class="xmc_ft14">【教程】ENDnote史上最全最直接教程，让你快速了解ENDnot </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3623273-1" target="_blank"  title="【课件】复合材料力学（哈尔滨工业大学）" class="xmc_ft14">【课件】复合材料力学（哈尔滨工业大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4722471-1" target="_blank"  title="【讲座】论文写作与文献检索" class="xmc_ft14">【讲座】论文写作与文献检索</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3659550-1" target="_blank"  title="【课件】高等有机化学（天津大学）" class="xmc_ft14">【课件】高等有机化学（天津大学）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4068452-1" target="_blank"  title="【课件】高等有机化学（中科院长春应化所）" class="xmc_ft14">【课件】高等有机化学（中科院长春应化所）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10501081-1" target="_blank"  title="【教程】实用ppt-来自《ppt商用实战攻略》一书" class="xmc_ft14">【教程】实用ppt-来自《ppt商用实战攻略》一书</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3690584-1" target="_blank"  title="【模板】Poster集合" class="xmc_ft14">【模板】Poster集合</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10706724-1" target="_blank"  title="【模板】毕业生求职信、自荐书、简历模板" class="xmc_ft14">【模板】毕业生求职信、自荐书、简历模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10352689-1" target="_blank"  title="【模板】精品答辩ppt模板，淘宝购买的分享给大伙" class="xmc_ft14">【模板】精品答辩ppt模板，淘宝购买的分享给大伙</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10415089-1" target="_blank"  title="【教程】让你驾车技术脱胎换骨的《手自一体轿车安全驾驶教程》 ——99页PPT教程" class="xmc_ft14">【教程】让你驾车技术脱胎换骨的《手自一体轿车安全驾驶教 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4300462-1" target="_blank" style="font-weight:bold;" title="【模板】PPT模板——汇报、评比" class="xmc_ft14">【模板】PPT模板——汇报、评比</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3606584-1" target="_blank" style="font-weight:bold;" title="【教程】如何让你的PPT更专业 Ⅱ" class="xmc_ft14">【教程】如何让你的PPT更专业 Ⅱ</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-10743032-1" target="_blank"  title="自己整理的好看的ppt和ppt模板" class="xmc_ft14">自己整理的好看的ppt和ppt模板</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5409962-1" target="_blank" style="font-weight:bold;font-size:14px;color: red" title="课件资源版版主专家招聘专贴（长期有效）" class="xmc_ft14">课件资源版版主专家招聘专贴（长期有效）</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5148626-1" target="_blank" style="font-weight:bold;color: red" title="课件资源版专家交流贴" class="xmc_ft14">课件资源版专家交流贴</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4909217-1" target="_blank" style="font-weight:bold;color: purple" title="课件资源版专家顾问工资细则" class="xmc_ft14">课件资源版专家顾问工资细则</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4328682-1" target="_blank" style="font-weight:bold;font-size:14px;color: blue" title="课件资源版专家指数（KEPI）发放原则及评定标准" class="xmc_ft14">课件资源版专家指数（KEPI）发放原则及评定标准</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4328596-1" target="_blank" style="font-weight:bold;font-size:14px;color: red" title="资源共享区课件资源版版规——2012年" class="xmc_ft14">资源共享区课件资源版版规——2012年</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4299097-1" target="_blank" style="font-weight:bold;font-size:14px;color: deeppink" title="课件资源版版主交流帖" class="xmc_ft14">课件资源版版主交流帖</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3705888-1" target="_blank" style="font-weight:bold;font-size:14px;color: blue" title="【推荐】课件资源版中外名校有机化学课件" class="xmc_ft14">【推荐】课件资源版中外名校有机化学课件</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4188563-1" target="_blank" style="font-weight:bold;font-size:14px;color: red" title="课件资源版资源发布奖励计划！" class="xmc_ft14">课件资源版资源发布奖励计划！</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-4168053-1" target="_blank" style="font-weight:bold;color: purple" title="课件资源版版主活动经费申请帖" class="xmc_ft14">课件资源版版主活动经费申请帖</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3792934-1" target="_blank" style="font-weight:bold;color: blue" title="课件资源版专家工资发放专贴" class="xmc_ft14">课件资源版专家工资发放专贴</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="wrapper">
+<div class="forum_Box bg_global xmc_line_bno">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">子版块</strong>  </h2>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="25%">
+<span class="xmc_fl forum_icon"></span>
+<div class="xmc_fl">
+<h4 class="xmc_blue"><a href="http://muchong.com/f-361-1" class="xmc_blue xmc_ft14" target="_blank">课件资源中转子版</a>
+<span class="xmc_c9">(今日: 0)<span></h4>
+<p class="xmc_c9">主题：2535, 帖子：68238</p>
+</div>
+</td>
+<td></td><td></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">6573</td><td class="header">1/66</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-112-2">2</a></td><td><a href="http://muchong.com/f-112-3">3</a></td><td><a href="http://muchong.com/f-112-4">4</a></td><td><a href="http://muchong.com/f-112-5">5</a></td><td><a href="http://muchong.com/f-112-6">6</a></td><td><a href="http://muchong.com/f-112-2">下一页</a></td></tr></table></div>
+</div>
+</div>
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="forum_Tag">
+    <a  class="on" href="http://muchong.com/f-112-1">全部</a>
+        <a href="http://muchong.com/f-112-1-typeid-875"  >化学化工</a>
+        <a href="http://muchong.com/f-112-1-typeid-878"  >材料相关</a>
+        <a href="http://muchong.com/f-112-1-typeid-1091"  >生命科学</a>
+        <a href="http://muchong.com/f-112-1-typeid-2077"  >食品医药</a>
+        <a href="http://muchong.com/f-112-1-typeid-883"  >数学物理</a>
+        <a href="http://muchong.com/f-112-1-typeid-879"  >人文社科</a>
+        <a href="http://muchong.com/f-112-1-typeid-2265"  >机械电子</a>
+        <a href="http://muchong.com/f-112-1-typeid-2264"  >表征分析</a>
+        <a href="http://muchong.com/f-112-1-typeid-2266"  >信息科学</a>
+        <a href="http://muchong.com/f-112-1-typeid-881"  >其他学科</a>
+        <a href="http://muchong.com/f-112-1-typeid-2076"  >中小学教学</a>
+        <a href="http://muchong.com/f-112-1-typeid-1456"  >答辩讲座</a>
+        <a href="http://muchong.com/f-112-1-typeid-1807"  >素材教程</a>
+        <a href="http://muchong.com/f-112-1-typeid-1967"  >专家交流</a>
+        <a href="http://muchong.com/f-112-1-typeid-2079"  >版务活动</a>
+    </div>
+<form method="post" name="moderate" action="topicadmin.php?action=moderate&fid=112&view=&type=&threadtype=0&order=lastpost&ascdesc=DESC&tagid=0" style="margin:0;padding:0;">
+<input type="hidden" name="formhash" value="5f41f52e">
+<div class="forum_head xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+
+<th colspan="2" style="padding: 2px 0px 2px 15px;;">
+<a href="http://muchong.com/f-112-1"  class="xmc_blod">回帖排序</a>
+<a href="http://muchong.com/f-112-1-order-tid" >发表排序</a>
+ <a href="http://muchong.com/f-112-1" lass="xmc_blue">刷新页面</a>  &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-112-1-threadtype-3"><font color=red>资源</font></a><a href="http://muchong.com/f-112-1-view-digest"  >精华区</a>
+</th>
+<td class="by">作者</td>
+<td class="by">最后发表</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="forum_body xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0" class="xmc_bpt">
+<tr class="forum_list">
+<td class="icn" style="padding-left: 8px;"><span style="color:green;">[<a href="creditshow.php" style="color:green;">竞价</a>]</span></td>
+<th  class="thread-name">
+<a href="creditshow.php?action=view&logid=64003" target="_blank" class="a_subject"><span style="font-weight:bold;color:red;text-decoration:underline;">FIB制备TEM样品 TEM SEM AFM PL ICP XPS NIR TG-IR TG/DSC Raman PyGCMS BET 压汞测试</span></a>
+</th>
+<td class="by"><cite><a href="space.php?uid=4024672" target="_blank">分析测试中心</a></cite>
+<span class="xmc_b9">2020-09-07</span></td>
+<td class="by">刚刚</td>
+</tr>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1807" title="素材教程" class="xmc_blue">素材教程</a>]</span> 
+<a class="a_subject" href="/t-7667152-1" target="_blank">【讲义】研究生课程——自然辩证法教材</a>
+
+<span style="color:gray;">(35/2256)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3316650">silent_wong</a></cite>
+<span class="xmc_b9">
+2014-07-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 18:37:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D1%EE%C0%ED%CF%EB" class="xmc_b9">杨理想</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-7751427-1" target="_blank">【课件】环境生态学（第二版）李洪远10873课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7751427-1">1</a> <a href="/t-7751427-2">2</a> )
+<span style="color:gray;">(75/2818)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1477364">々暧-〃</a></cite>
+<span class="xmc_b9">
+2014-08-09</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 17:06:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=wr0614" class="xmc_b9">wr0614</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-9749847-1" target="_blank">【课件】物理化学课件（天津大学第五版）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-9749847-1">1</a> <a href="/t-9749847-2">2</a> <a href="/t-9749847-3">3</a> <a href="/t-9749847-4">4</a> )
+<span style="color:gray;">(165/5355)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1923115">武力瓶</a></cite>
+<span class="xmc_b9">
+2015-12-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 16:23:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BB%F0%D6%AE%D2%E2%D6%BE" class="xmc_b9">火之意志</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-7756341-1" target="_blank">【课件】Anderson经典教材——空气动力学基础的西北工业大学国家精品课程PPT</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7756341-1">1</a> <a href="/t-7756341-2">2</a> )
+<span style="color:gray;">(97/5646)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1882079">xgdcgy</a></cite>
+<span class="xmc_b9">
+2014-08-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 14:11:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=secretevil" class="xmc_b9">secretevil</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-13324397-1" target="_blank">【讲义】清华大学 庄鹏飞 的 高等 量子力学 的 讲义</a>
+
+<span style="color:gray;">(9/987)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043337">bemyselfbio</a></cite>
+<span class="xmc_b9">
+2019-04-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:48:28</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chongmu1891" class="xmc_b9">chongmu1891</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-4337746-1" target="_blank">【课件】分析化学（华东理工大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4337746-1">1</a> <a href="/t-4337746-2">2</a> <a href="/t-4337746-3">3</a> <a href="/t-4337746-4">4</a> <a href="/t-4337746-5">5</a> )
+<span style="color:gray;">(248/9009)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1675673">libo_njut</a></cite>
+<span class="xmc_b9">
+2012-04-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:36:52</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=xiaaiqing" class="xmc_b9">xiaaiqing</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2264" title="表征分析" class="xmc_blue">表征分析</a>]</span> 
+<a class="a_subject" href="/t-7635637-1" target="_blank">【课件】质谱原理课件-2013</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7635637-1">1</a> <a href="/t-7635637-2">2</a> <a href="/t-7635637-3">3</a> )
+<span style="color:gray;">(141/2647)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=967211">温新秦</a></cite>
+<span class="xmc_b9">
+2014-07-09</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 09:43:19</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=dongben198" class="xmc_b9">dongben198</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2077" title="食品医药" class="xmc_blue">食品医药</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-3643845-1" target="_blank">【课件】现代生物技术与新药研究（上海医药工业研究院）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3643845-1">1</a> <a href="/t-3643845-2">2</a> <a href="/t-3643845-3">3</a> <a href="/t-3643845-4">4</a> <a href="/t-3643845-5">5</a> <a href="/t-3643845-6">6</a> )
+<span style="color:gray;">(274/4574)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1087822">anyluk</a></cite>
+<span class="xmc_b9">
+2011-09-27</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 09:28:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hchg" class="xmc_b9">hchg</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-4477915-1" target="_blank">【课件】污水处理</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4477915-1">1</a> <a href="/t-4477915-2">2</a> )
+<span style="color:gray;">(81/2285)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1498635">wangbingnefu</a></cite>
+<span class="xmc_b9">
+2012-05-07</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 09:09:27</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cyj120" class="xmc_b9">cyj120</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-4474517-1" target="_blank">【课件】环境工程原理课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4474517-1">1</a> <a href="/t-4474517-2">2</a> <a href="/t-4474517-3">3</a> )
+<span style="color:gray;">(128/3751)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1498635">wangbingnefu</a></cite>
+<span class="xmc_b9">
+2012-05-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 08:56:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=sulfonate" class="xmc_b9">sulfonate</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-3702561-1" target="_blank">【讲义】无机化学实验（中国民族大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3702561-1">1</a> <a href="/t-3702561-2">2</a> )
+<span style="color:gray;">(57/1524)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1392520">beihuaiyu</a></cite>
+<span class="xmc_b9">
+2011-10-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 22:59:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fatban" class="xmc_b9">fatban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-3978513-1" target="_blank">【讲义】无机化学实验</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3978513-1">1</a> <a href="/t-3978513-2">2</a> <a href="/t-3978513-3">3</a> )
+<span style="color:gray;">(123/3592)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1268233">eurekayan</a></cite>
+<span class="xmc_b9">
+2011-12-23</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 22:56:19</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fatban" class="xmc_b9">fatban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-7594816-1" target="_blank">【讲义】无机化学实验（教师课件）</a>
+
+<span style="color:gray;">(35/1794)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2712826">红尘客栈</a></cite>
+<span class="xmc_b9">
+2014-06-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 22:53:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fatban" class="xmc_b9">fatban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-7279161-1" target="_blank">环境工程</a>
+
+<span style="color:gray;">(28/1805)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1857853">胡朝辉</a></cite>
+<span class="xmc_b9">
+2014-04-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 22:30:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fatban" class="xmc_b9">fatban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-3505978-1" target="_blank">【课件】光电子发光与显示技术（天津大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3505978-1">1</a> <a href="/t-3505978-2">2</a> <a href="/t-3505978-3">3</a> )
+<span style="color:gray;">(139/3266)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1344641">熊盖赞</a></cite>
+<span class="xmc_b9">
+2011-08-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:59:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=fatban" class="xmc_b9">fatban</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-8707578-1" target="_blank">【课件】endnote培训资料</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-8707578-1">1</a> <a href="/t-8707578-2">2</a> <a href="/t-8707578-3">3</a> )
+<span style="color:gray;">(148/3057)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3442919">明珠yu</a></cite>
+<span class="xmc_b9">
+2015-03-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 14:05:26</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=gyz1106" class="xmc_b9">gyz1106</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-10643954-1" target="_blank">【课件】化学生物学-化学物质与酶的相互作用</a>
+
+<span style="color:gray;">(27/938)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1450396">果断悉尼</a></cite>
+<span class="xmc_b9">
+2016-09-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 13:58:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hchg" class="xmc_b9">hchg</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-7797652-1" target="_blank">【课件】李庆扬 数值分析课件 第五版</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7797652-1">1</a> <a href="/t-7797652-2">2</a> <a href="/t-7797652-3">3</a> <a href="/t-7797652-4">4</a> <a href="/t-7797652-5">5</a> <a href="/t-7797652-6">6</a>  .. <a href="/t-7797652-9">9</a> )
+<span style="color:gray;">(425/11272)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3324587">wliujing</a></cite>
+<span class="xmc_b9">
+2014-08-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 13:33:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ptzengminli" class="xmc_b9">ptzengminli</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-2389586-1" target="_blank">【课件】仪器分析（湖南大学）</a>
+
+<span style="color:gray;">(34/1579)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=872578">slb8128</a></cite>
+<span class="xmc_b9">
+2010-09-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 08:29:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bluesky2008" class="xmc_b9">bluesky2008</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1807" title="素材教程" class="xmc_blue">素材教程</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-3839805-1" target="_blank">【课件】实验室安全培训</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3839805-1">1</a> <a href="/t-3839805-2">2</a> <a href="/t-3839805-3">3</a> <a href="/t-3839805-4">4</a> <a href="/t-3839805-5">5</a> <a href="/t-3839805-6">6</a>  .. <a href="/t-3839805-10">10</a> )
+<span style="color:gray;">(482/8554)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=525318">周彬彬1223</a></cite>
+<span class="xmc_b9">
+2011-11-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 16:58:54</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=421700894" class="xmc_b9">421700894</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-10970351-1" target="_blank">【课件】生物反应工程</a>
+
+<span style="color:gray;">(27/1036)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4013520">吉亚</a></cite>
+<span class="xmc_b9">
+2017-01-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 16:11:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zz0726" class="xmc_b9">zz0726</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-11983192-1" target="_blank">【课件】四川大学硕士数学物理方法</a>
+
+<span style="color:gray;">(15/1725)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3467813">夜尽月未明</a></cite>
+<span class="xmc_b9">
+2018-01-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 08:05:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Danielxu" class="xmc_b9">Danielxu</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-9214547-1" target="_blank">【课件】哈尔滨工业大学  环境化学 教学课件，适合考研的朋友《已搜索无重复》</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-9214547-1">1</a> <a href="/t-9214547-2">2</a> )
+<span style="color:gray;">(54/1590)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1645313">任长存</a></cite>
+<span class="xmc_b9">
+2015-07-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 06:11:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=sulfonate" class="xmc_b9">sulfonate</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-3810205-1" target="_blank">【课件】计算物理学</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3810205-1">1</a> <a href="/t-3810205-2">2</a> <a href="/t-3810205-3">3</a> )
+<span style="color:gray;">(124/3629)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=332014">kexueshi</a></cite>
+<span class="xmc_b9">
+2011-11-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 18:20:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Guishenbiyi" class="xmc_b9">Guishenbiyi</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-7406255-1" target="_blank">【课件】计算机算法设计与分析课件-南开大学</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7406255-1">1</a> <a href="/t-7406255-2">2</a> <a href="/t-7406255-3">3</a> )
+<span style="color:gray;">(104/2484)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1179258">ANDPing</a></cite>
+<span class="xmc_b9">
+2014-05-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 17:25:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=supercar" class="xmc_b9">supercar</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-3499130-1" target="_blank">【课件】数据库Access</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3499130-1">1</a> <a href="/t-3499130-2">2</a> )
+<span style="color:gray;">(91/2370)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1244921">追梦白狼</a></cite>
+<span class="xmc_b9">
+2011-08-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 15:40:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mfszs12" class="xmc_b9">mfszs12</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1456" title="答辩讲座" class="xmc_blue">答辩讲座</a>]</span> 
+<a class="a_subject" href="/t-14059170-1" target="_blank">【附带各大学校徽】超级实用毕业论文答辩PPT模板</a>
+
+<span style="color:gray;">(14/489)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2427276">fenmoyejin</a></cite>
+<span class="xmc_b9">
+2020-02-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 14:46:36</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bsdyongli" class="xmc_b9">bsdyongli</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2264" title="表征分析" class="xmc_blue">表征分析</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-3588924-1" target="_blank">【课件】红外和拉曼光谱导论（中科院长春应化所）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3588924-1">1</a> <a href="/t-3588924-2">2</a> <a href="/t-3588924-3">3</a> <a href="/t-3588924-4">4</a> <a href="/t-3588924-5">5</a> <a href="/t-3588924-6">6</a>  .. <a href="/t-3588924-7">7</a> )
+<span style="color:gray;">(329/7451)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2011-09-12</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 11:57:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yangshichun" class="xmc_b9">yangshichun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-14341712-1" target="_blank">【教程】python初学者推荐——笨方法学python第四版.pdf</a>
+
+<span style="color:gray;">(23/767)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22922623">hurriter</a></cite>
+<span class="xmc_b9">
+2020-07-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 11:36:50</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=1559349638" class="xmc_b9">1559349638</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2264" title="表征分析" class="xmc_blue">表征分析</a>]</span> 
+<a class="a_subject" href="/t-4450823-1" target="_blank">【教案】质谱分析法电子教材（清华大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4450823-1">1</a> <a href="/t-4450823-2">2</a> <a href="/t-4450823-3">3</a> <a href="/t-4450823-4">4</a> )
+<span style="color:gray;">(159/4419)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1387650">zhanyf</a></cite>
+<span class="xmc_b9">
+2012-04-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 10:32:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=xf53gz" class="xmc_b9">xf53gz</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-7246150-1" target="_blank">【课件】数值分析课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7246150-1">1</a> <a href="/t-7246150-2">2</a> )
+<span style="color:gray;">(72/2192)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1789406">刘小军先生</a></cite>
+<span class="xmc_b9">
+2014-04-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 10:14:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=askuyue" class="xmc_b9">askuyue</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-4251663-1" target="_blank">【课件】材料概论（华东理工大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4251663-1">1</a> <a href="/t-4251663-2">2</a> <a href="/t-4251663-3">3</a> <a href="/t-4251663-4">4</a> <a href="/t-4251663-5">5</a> <a href="/t-4251663-6">6</a>  .. <a href="/t-4251663-9">9</a> )
+<span style="color:gray;">(430/7820)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2012-03-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 08:06:11</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhaolu0922" class="xmc_b9">zhaolu0922</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2076" title="中小学教学" class="xmc_blue">中小学教 </a>]</span> 
+<a class="a_subject" href="/t-11522072-1" target="_blank">【教程】很全面的高中生物专题——状元笔记</a>
+
+<span style="color:gray;">(34/2352)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=152216">shuoyeb</a></cite>
+<span class="xmc_b9">
+2017-07-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 06:40:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cydd" class="xmc_b9">cydd</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> 
+<a class="a_subject" href="/t-11911461-1" target="_blank">【教程】material-studio入门教程</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-11911461-1">1</a> <a href="/t-11911461-2">2</a> )
+<span style="color:gray;">(72/4490)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3460336">山水奇缘</a></cite>
+<span class="xmc_b9">
+2017-12-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 05:33:15</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hczheng899" class="xmc_b9">hczheng899</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-3881451-1" target="_blank">【课件】反应工程（天津大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3881451-1">1</a> <a href="/t-3881451-2">2</a> <a href="/t-3881451-3">3</a> <a href="/t-3881451-4">4</a> )
+<span style="color:gray;">(187/6270)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1294141">十廾卅卌</a></cite>
+<span class="xmc_b9">
+2011-11-29</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 18:34:53</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=wangyanlin" class="xmc_b9">wangyanlin</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-14380496-1" target="_blank">韩国专利各类信息汇总</a>
+
+<span style="color:gray;">(2/65)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3956962">清丽的眸子</a></cite>
+<span class="xmc_b9">
+2020-08-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 16:57:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CE%E5%B7%D6%D6%AE%CB%C4" class="xmc_b9">五分之四</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-5071132-1" target="_blank">【课件】生物化学-王镜岩-核酸-PPT</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-5071132-1">1</a> <a href="/t-5071132-2">2</a> )
+<span style="color:gray;">(50/2237)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1168330">yiqianying</a></cite>
+<span class="xmc_b9">
+2012-10-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 15:53:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C8%A6%C4%DA%D3%EB%C8%A6%CD%E2" class="xmc_b9">圈内与圈外</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-10465743-1" target="_blank">【课件】MATLAB在环境科学与工程中的应用讲义及PPT资料</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-10465743-1">1</a> <a href="/t-10465743-2">2</a> )
+<span style="color:gray;">(64/1936)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2608031">hujianxun001</a></cite>
+<span class="xmc_b9">
+2016-07-07</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 14:47:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C7%E1%CE%E8%B7%C9%D1%EF%B9%FE9" class="xmc_b9">轻舞飞扬哈9</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-879" title="人文社科" class="xmc_blue">人文社科</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-3417222-1" target="_blank">【课件】工程经济与项目管理（西安建筑科技大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3417222-1">1</a> <a href="/t-3417222-2">2</a> <a href="/t-3417222-3">3</a> <a href="/t-3417222-4">4</a> )
+<span style="color:gray;">(150/4080)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=742035">yyp_123</a></cite>
+<span class="xmc_b9">
+2011-07-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 14:45:27</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=slowbird" class="xmc_b9">slowbird</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-3412414-1" target="_blank">【课件】高分子化学（同济大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3412414-1">1</a> <a href="/t-3412414-2">2</a> )
+<span style="color:gray;">(90/2084)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1227009">kuailels133</a></cite>
+<span class="xmc_b9">
+2011-07-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 13:54:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B6%AB__" class="xmc_b9">东__</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> 
+<a class="a_subject" href="/t-10495245-1" target="_blank">【课件】武汉科技大学-耐火材料工艺学课件</a>
+
+<span style="color:gray;">(49/2122)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4639598">wust-憧憬</a></cite>
+<span class="xmc_b9">
+2016-07-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 13:04:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C7%A3%CA%D6%B5%C4%D0%D2%B8%A3" class="xmc_b9">牵手的幸福</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>III</b>:&nbsp;
+
+<a class="a_subject" href="/t-6150689-1" target="_blank">【课件】危险化学品培训.pptx</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-6150689-1">1</a> <a href="/t-6150689-2">2</a> <a href="/t-6150689-3">3</a> <a href="/t-6150689-4">4</a> <a href="/t-6150689-5">5</a> <a href="/t-6150689-6">6</a>  .. <a href="/t-6150689-9">9</a> )
+<span style="color:gray;">(440/7317)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1223787">AnnF</a></cite>
+<span class="xmc_b9">
+2013-07-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 10:30:57</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=binweisure" class="xmc_b9">binweisure</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-10222902-1" target="_blank">【课件】ICP电感耦合等离子体原理与应用</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-10222902-1">1</a> <a href="/t-10222902-2">2</a> )
+<span style="color:gray;">(63/1442)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4008591">sanxinghx</a></cite>
+<span class="xmc_b9">
+2016-04-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 06:41:49</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=strawmaner" class="xmc_b9">strawmaner</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-3505973-1" target="_blank">【课件】光电子技术新进展（天津大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3505973-1">1</a> <a href="/t-3505973-2">2</a> <a href="/t-3505973-3">3</a> )
+<span style="color:gray;">(131/4575)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1344641">熊盖赞</a></cite>
+<span class="xmc_b9">
+2011-08-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 06:39:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C0%EE%CE%B01994" class="xmc_b9">李伟1994</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2264" title="表征分析" class="xmc_blue">表征分析</a>]</span> 
+<a class="a_subject" href="/t-7869447-1" target="_blank">【课件】翁诗甫的红外光谱谱图解析课件--绝对值得拥有！</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7869447-1">1</a> <a href="/t-7869447-2">2</a> <a href="/t-7869447-3">3</a> <a href="/t-7869447-4">4</a> )
+<span style="color:gray;">(166/3521)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=293583">chairman国家</a></cite>
+<span class="xmc_b9">
+2014-09-07</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 04:23:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B4%F3%B7%E72013" class="xmc_b9">大风2013</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-9104728-1" target="_blank">【课件】原子物理学课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-9104728-1">1</a> <a href="/t-9104728-2">2</a> <a href="/t-9104728-3">3</a> )
+<span style="color:gray;">(102/2843)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3719514">zhuruxian</a></cite>
+<span class="xmc_b9">
+2015-06-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 18:31:58</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=miaoshi" class="xmc_b9">miaoshi</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-10622248-1" target="_blank">【课件】无机化学-天大课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-10622248-1">1</a> <a href="/t-10622248-2">2</a> <a href="/t-10622248-3">3</a> <a href="/t-10622248-4">4</a> <a href="/t-10622248-5">5</a> <a href="/t-10622248-6">6</a> )
+<span style="color:gray;">(251/7243)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1135091">中原剑客168</a></cite>
+<span class="xmc_b9">
+2016-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 17:17:28</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=huaweimian9" class="xmc_b9">huaweimian9</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>III</b>:&nbsp;
+
+<a class="a_subject" href="/t-4844056-1" target="_blank">【课件】化学人、实验室、安全与健康</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4844056-1">1</a> <a href="/t-4844056-2">2</a> <a href="/t-4844056-3">3</a> <a href="/t-4844056-4">4</a> <a href="/t-4844056-5">5</a> <a href="/t-4844056-6">6</a>  .. <a href="/t-4844056-13">13</a> )
+<span style="color:gray;">(641/12173)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1071124">lipengbo_sd</a></cite>
+<span class="xmc_b9">
+2012-08-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 14:34:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B6%A1%B6%A13875" class="xmc_b9">丁丁3875</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-9636160-1" target="_blank">【课件】数字图像主动取证技术综述</a>
+
+<span style="color:gray;">(14/590)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1179258">ANDPing</a></cite>
+<span class="xmc_b9">
+2015-11-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 14:23:05</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=jimmykim" class="xmc_b9">jimmykim</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-7298141-1" target="_blank">【课件】固体电化学</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7298141-1">1</a> <a href="/t-7298141-2">2</a> <a href="/t-7298141-3">3</a> )
+<span style="color:gray;">(143/3296)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3143164">FFreeLLoop</a></cite>
+<span class="xmc_b9">
+2014-04-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 14:04:05</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=tianqi1053" class="xmc_b9">tianqi1053</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-3773832-1" target="_blank">【课件】植物资源化学（南京林业大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3773832-1">1</a> <a href="/t-3773832-2">2</a> <a href="/t-3773832-3">3</a> )
+<span style="color:gray;">(107/2867)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1310159">qiaochao01</a></cite>
+<span class="xmc_b9">
+2011-11-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 13:09:34</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=youshan999" class="xmc_b9">youshan999</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-3378071-1" target="_blank">【课件】有机波谱分析（北京理工大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3378071-1">1</a> <a href="/t-3378071-2">2</a> <a href="/t-3378071-3">3</a> <a href="/t-3378071-4">4</a> <a href="/t-3378071-5">5</a> )
+<span style="color:gray;">(229/4685)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2011-07-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 12:47:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mei2539" class="xmc_b9">mei2539</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1807" title="素材教程" class="xmc_blue">素材教程</a>]</span> 
+<a class="a_subject" href="/t-10934093-1" target="_blank">【课件】文献检索与写作资源</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-10934093-1">1</a> <a href="/t-10934093-2">2</a> <a href="/t-10934093-3">3</a> )
+<span style="color:gray;">(134/4666)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5151413">1052745116</a></cite>
+<span class="xmc_b9">
+2016-12-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 12:20:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhengxz531" class="xmc_b9">zhengxz531</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-7774295-1" target="_blank">【课件】半导体器件失效分析</a>
+
+<span style="color:gray;">(18/979)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1695154">lsh361</a></cite>
+<span class="xmc_b9">
+2014-08-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 11:44:40</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C7%E5%B7%E7%CB%E6%D4%B5" class="xmc_b9">清风随缘</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> 
+<a class="a_subject" href="/t-11766851-1" target="_blank">【视频』半导体物理+半导体器件物理视频，蒋玉龙教授主讲！</a>
+
+<span style="color:gray;">(35/5108)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3400915">（ctrl）</a></cite>
+<span class="xmc_b9">
+2017-10-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 10:07:33</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mmg2012sd" class="xmc_b9">mmg2012sd</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-7221263-1" target="_blank">【课件】红外光谱原理及谱图解析</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7221263-1">1</a> <a href="/t-7221263-2">2</a> <a href="/t-7221263-3">3</a> <a href="/t-7221263-4">4</a> <a href="/t-7221263-5">5</a> <a href="/t-7221263-6">6</a>  .. <a href="/t-7221263-8">8</a> )
+<span style="color:gray;">(379/6587)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1229128">唐tjg</a></cite>
+<span class="xmc_b9">
+2014-04-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 08:11:34</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B4%F3%B7%E72013" class="xmc_b9">大风2013</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2264" title="表征分析" class="xmc_blue">表征分析</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>I</b>:&nbsp;
+
+<a class="a_subject" href="/t-7352477-1" target="_blank">【课件】红外光谱谱图解析实例.ppt</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7352477-1">1</a> <a href="/t-7352477-2">2</a> <a href="/t-7352477-3">3</a> <a href="/t-7352477-4">4</a> <a href="/t-7352477-5">5</a> <a href="/t-7352477-6">6</a>  .. <a href="/t-7352477-7">7</a> )
+<span style="color:gray;">(314/7148)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1223787">AnnF</a></cite>
+<span class="xmc_b9">
+2014-05-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 08:09:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B4%F3%B7%E72013" class="xmc_b9">大风2013</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-9903432-1" target="_blank">【教程】51单片机经典教程</a>
+
+<span style="color:gray;">(42/1613)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2962172">flsn2007</a></cite>
+<span class="xmc_b9">
+2016-01-22</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 06:41:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mahaofengyun" class="xmc_b9">mahaofengyun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-2266" title="信息科学" class="xmc_blue">信息科学</a>]</span> 
+<a class="a_subject" href="/t-7951533-1" target="_blank">【课件】《单片机原理及应用(C语言版)》-周国运-电子教案</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-7951533-1">1</a> <a href="/t-7951533-2">2</a> )
+<span style="color:gray;">(85/2118)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2520505">mthkuaizi</a></cite>
+<span class="xmc_b9">
+2014-09-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 06:40:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mahaofengyun" class="xmc_b9">mahaofengyun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> 
+<a class="a_subject" href="/t-4047740-1" target="_blank">【课件】微光刻与微纳米加工技术（中科院微电子研究所）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4047740-1">1</a> <a href="/t-4047740-2">2</a> <a href="/t-4047740-3">3</a> )
+<span style="color:gray;">(130/3404)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2012-01-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 06:16:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hy6539233" class="xmc_b9">hy6539233</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-11323609-1" target="_blank">【课件】北京大学 生物化学课件</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-11323609-1">1</a> <a href="/t-11323609-2">2</a> <a href="/t-11323609-3">3</a> )
+<span style="color:gray;">(100/7994)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4094269">wangboooo</a></cite>
+<span class="xmc_b9">
+2017-04-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 05:23:35</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=vbrsm-jj" class="xmc_b9">vbrsm-jj</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-883" title="数学物理" class="xmc_blue">数学物理</a>]</span> <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/digest.gif" align="absmiddle"> 精华<b>II</b>:&nbsp;
+
+<a class="a_subject" href="/t-3372892-1" target="_blank">【课件】概率论与数理统计（山东大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3372892-1">1</a> <a href="/t-3372892-2">2</a> <a href="/t-3372892-3">3</a> <a href="/t-3372892-4">4</a> <a href="/t-3372892-5">5</a> <a href="/t-3372892-6">6</a>  .. <a href="/t-3372892-8">8</a> )
+<span style="color:gray;">(375/9856)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2011-07-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 04:49:35</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ylgwt" class="xmc_b9">ylgwt</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-1091" title="生命科学" class="xmc_blue">生命科学</a>]</span> 
+<a class="a_subject" href="/t-11347620-1" target="_blank">【课件】王镜岩生物化学思维导图</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-11347620-1">1</a> <a href="/t-11347620-2">2</a> <a href="/t-11347620-3">3</a> <a href="/t-11347620-4">4</a> )
+<span style="color:gray;">(177/13318)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1847693">aishida</a></cite>
+<span class="xmc_b9">
+2017-05-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 19:58:13</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=muhuir" class="xmc_b9">muhuir</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> 
+<a class="a_subject" href="/t-9619893-1" target="_blank">【讲义】欧美国家钝感弹药技术概述</a>
+
+<span style="color:gray;">(16/786)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1179258">ANDPing</a></cite>
+<span class="xmc_b9">
+2015-11-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 19:58:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A1%D3%E3%B6%F9%D6%AE%BA%A3" class="xmc_b9">小鱼儿之海</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-878" title="材料相关" class="xmc_blue">材料相关</a>]</span> 
+<a class="a_subject" href="/t-5127742-1" target="_blank">【课件】功能材料（华东理工大学）</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-5127742-1">1</a> <a href="/t-5127742-2">2</a> <a href="/t-5127742-3">3</a> <a href="/t-5127742-4">4</a> <a href="/t-5127742-5">5</a> )
+<span style="color:gray;">(217/4127)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1186229">zz2317754</a></cite>
+<span class="xmc_b9">
+2012-10-31</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 19:35:57</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=wasxnbe" class="xmc_b9">wasxnbe</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-875" title="化学化工" class="xmc_blue">化学化工</a>]</span> 
+<a class="a_subject" href="/t-8499566-1" target="_blank">【课件】无机化学 宋天佑  课件资源</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-8499566-1">1</a> <a href="/t-8499566-2">2</a> <a href="/t-8499566-3">3</a> <a href="/t-8499566-4">4</a> <a href="/t-8499566-5">5</a> <a href="/t-8499566-6">6</a> )
+<span style="color:gray;">(250/19313)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2898864">师晓松</a></cite>
+<span class="xmc_b9">
+2015-01-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 12:10:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C2%B6%BB%B9%D4%DA" class="xmc_b9">露还在</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tr class="forum_head" style="border-left: 0px;border-right: 0px; background: #BCD0ED;">
+<td colspan="2" class="xmc_lp15" style="background: #BCD0ED;">交流 [ <a href="http://muchong.com/f-112-1-threadtype-1">查看全部</a> ]</td>
+<td width="120" align="center" style="background: #BCD0ED;">作者</td>
+<td width="70" align="center" style="background: #BCD0ED;">最后发表</td>
+</tr>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-112-1-typeid-881" title="其他学科" class="xmc_blue">其他学科</a>]</span> 
+<a class="a_subject" href="/t-12407677-1" target="_blank">中国土地利用数据1980-2015</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-12407677-1">1</a> <a href="/t-12407677-2">2</a> )
+<span style="color:gray;">(11/779)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7456639">okaluli</a></cite>
+<span class="xmc_b9">
+2018-06-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 18:49:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=tppjia" class="xmc_b9">tppjia</a> </span>
+
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+</form>
+</div>
+
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">6573</td><td class="header">1/66</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-112-2">2</a></td><td><a href="http://muchong.com/f-112-3">3</a></td><td><a href="http://muchong.com/f-112-4">4</a></td><td><a href="http://muchong.com/f-112-5">5</a></td><td><a href="http://muchong.com/f-112-6">6</a></td><td><a href="http://muchong.com/f-112-2">下一页</a></td></tr></table></div>
+</div>
+
+<div class="hr_10"></div>
+<div class="forum_opera xmc_brt2 solid">
+    	<span class="xmc_fr">
+        	相关版块跳转
+            <select name="jumpfid"  class="forumdisply" onchange="location.href='/f-'+this.value+'-1'" >
+<option value="55">电脑软件</option>
+<option value="410">手机资源</option>
+<option value="188">科研工具</option>
+<option value="300">科研资料</option>
+<option value="112" selected>课件资源</option>
+<option value="380">试题资源</option>
+<option value="401">资源求助</option>
+<option value="347">电脑使用</option>
+</select>
+        </span>
+<form method="post" action="forumdisplay.php?fid=112&type=&threadtype=0&displayorder=">
+<input type="hidden" name="formhash" value="5f41f52e">
+        <span>
+        	<div class="xmc_fl">查看
+            <select name="order" class="vieworder">
+<option value="lastpost">最后发表</option>
+<option value="tid">发贴时间</option>
+</select>
+            <select name="ascdesc" class="vieworder">
+<option value="DESC">按降序排列</option>
+<option value="ASC">按升序排列</option>
+</select>
+</div>
+<div class="xmc_fl xmc_lm5">
+            <input type="submit" value="提交" class="reg_button3">
+</div>
+        </span>
+</form>
+</div>
+</div>
+
+
+<script type="text/javascript">
+jQuery(function() {
+jQuery('.forumdisply').sSelect();
+jQuery('.vieworder').sSelect();
+
+});
+</script>
+
+<div class="hr_10"></div>
+<footer style="background: #fff;">
+<div class="footer_icp"></div>
+<iframe id="ajaxframe" name="ajaxframe" frameborder="0" scrolling="no" src="about:blank;" width="0" height="0" charset="gbk" style="height: 0px; line-height: 1px;"></iframe>
+<div class="wrapper">
+<div class="padding:20px;">
+<table  cellspacing="5" cellpadding="5" align="center">
+<tr><td align="center"><a href="http://muchong.com/bbs/a234.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1112/1_1573551898_544.gif" align="absmiddle" width="760" height="90"></a></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center" height="60">
+<p>
+<strong style="font-size:24px;"><u><a href="http://muchong.com/bbs/a2483.html" class="" target="_blank" style='display: inherit!important;'>史上最全生信培训班免费送，快来报名啦</a></u></strong>
+</p>
+</td></tr>
+</table>
+</div>
+</div>
+<div class="hr_20"></div>
+
+
+
+<div style="text-align:center;margin:0 auto;margin:0 auto;">
+<a name="#bottom"></a>
+<table align="center">
+<tr>
+<td align="center" style="padding-left:20px;">
+
+<div style="line-height:1.5;">
+<a href="http://mob.muchong.com/bbs/index.php?pc=no" class="mediumtxt" rel="nofollow"><u>切换到手机版</u></a> -
+<a href="http://muchong.com/t-11622561-1" class="mediumtxt" rel="nofollow" target="_blank"><u>清除COOKIES</u></a> -
+<a href="supporter.php?view=ad" class="mediumtxt" rel="nofollow"><u>广告投放说明</u></a> -
+<a href="post.php?action=newthread&fid=321" class="mediumtxt" rel="nofollow"><u>给我们提意见</u></a> -
+<a href="http://m.muchong.com/?f=bbs&w=footer_text" target="_blank"><u>手机客户端</u></a> -
+<a href="supporter.php" target="_blank"><u>捐助小木虫</u></a> -
+<a href="http://src.100tal.com/?_f=muchong" target="_blank" rel="nofollow"><u>漏洞提交</u></a>
+<br>
+小木虫,学术科研互动社区,为中国学术科研免费提供动力<br>
+违规、侵权举报等事项，请邮件联系emuch2018@163.com 处理<br>
+广告投放与宣传请联系 <u>李想</u> QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=64901448&site=qq&menu=yes'><u>64901448</u></a>
+QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=2829862428&site=qq&menu=yes'><u>2829862428</u></a>&nbsp;&nbsp;邮箱：<u>64901448@qq.com</u><br>
+
+<div style="color:gray;">Copyright &copy; 2001-2020 MuChong.com, All Rights Reserved. 小木虫 版权所有
+</div>
+<div>
+<a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">京ICP备09032638号-13</a>
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802022153" rel="nofollow"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/logo/jgwab.jpg" align="absmiddle"/>京公网安备 11010802022153号</a>
+
+</div>
+<br/>
+<table>
+<tr>
+<td style="padding-right: 15px; border-right: 1px solid #cccccc"><a target="_blank" href="http://m.muchong.com/?f=bbs&w=footer_v" rel="nofollow"><img height="100" src="http://muchongimg.xmcimg.com/data/bcs/2017/0226/1_1488123568_827.png"></a>
+</td>
+<td style="padding-left: 15px;">
+<a key="5704b2daefbfb0745c47297e" logo_size="124x47" logo_type="business"
+   href="http://www.anquan.org">
+<script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script>
+</a>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<br></div>
+<div id="goTopBtn" style="display:none;"></div>
+<script type="text/javascript">goTopEx();</script>
+</footer>
+<script src="http://push.zhanzhang.baidu.com/push.js" ></script><script>
+
+;(function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/analytics.js?15373250','ga');
+var f = emuch.getQueryString('f');
+if(f !== null ) {
+var w = emuch.getQueryString('w');
+ga('outside', 'event', 'web', f,w);
+}
+ga('create', 'UA-1947017-8', 'auto');
+if(typeof XMC_GKEY != "undefined" && XMC_GKEY){
+ga('set', 'title', XMC_GKEY);
+}
+ga('send', 'pageview');
+if(typeof GA_TYPE != "undefined" && typeof GA_TYPE_NAME  != "undefined" ) {
+ga('send', 'event', GA_TYPE_NAME, GA_TYPE, "0");
+}
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?2207ecfb7b2633a3bc5c4968feb58569";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+})();
+</script>
+
+</body>
+</html>
